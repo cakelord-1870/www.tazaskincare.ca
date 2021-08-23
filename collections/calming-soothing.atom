@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/calming-soothing.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2018-07-16T16:42:23-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368444010609</id>
+    <published>2018-07-16T16:42:23-12:00</published>
+    <updated>2018-07-16T16:42:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-oatmeal-milk-honey-soap"/>
+    <title>Taza Oatmeal Milk &amp; Honey Natural Soap (Pack of 3)</title>
+    <s:type>Soaps</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Oatmeal_Milk_Honey_angle_view-9200_-_Feb_13_2016.jpg?v=1536356617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Soaps<br>
+        <strong>Price: </strong>
+            21.59 - 26.99
+            <a href="https://www.tazaskincare.ca/products/taza-oatmeal-milk-honey-soap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Oatmeal Milk &amp; Honey Natural Soap</b> provides mild cleansing and keeps your skin soft, radiant, glowing, and healthy. It also regenerates and moisturizes your skin and smells fantastic. The following are additional features of this soap: </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Handmade • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive • Palm Fruit Oil and all other ingredients are obtained only from environmentally responsible and sustainable sources </span></li>
+<li><span class="a-list-item"> Contains Oats, which is a soothing anti-inflammatory and redness remover when applied to the skin; it also helps with skin itching </span></li>
+<li><span class="a-list-item"> Contains Coconut Oil, Olive Oil, Goats Milk, and Honey which assists the anti-aging process and prevents wrinkles, skin sagging, and premature aging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> Contains Shea Butter, Goats Milk, and Honey all of which provides intense hydration and moisture for your skin </span></li>
+<li><span class="a-list-item"> Contains Kaolin Clay which detoxifies and cleanses your skin and removes dull skin layers for remarkable skin regeneration </span></li>
+</ul>
+<p>Key ingredients: Coconut Oil, Olive Oil, Shea Butter, Kaolin Clay, Oats, Honey, and Goats Milk.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Oatmeal Milk &amp; Honey Natural Soap" href="https://www.amazon.ca/dp/B00S245F2O" target="_blank" rel="noopener noreferrer">Taza Oatmeal Milk &amp; Honey Natural Soap</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Oatmeal Milk &amp; Honey Natural Soap.</p>
+<p>Get these other excellent Taza Natural Soaps: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-sandalwood-soap" target="_blank" rel="noopener noreferrer">Sandalwood Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-tea-tree-charcoal-soap" target="_blank" rel="noopener noreferrer">Tea Tree Oil &amp; Activated Charcoal Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-dead-sea-mineral-mud-natural-soap" target="_blank" rel="noopener noreferrer">Dead Sea Mineral Mud Soap</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.94</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368435916913</id>
+    <published>2018-07-16T16:39:50-12:00</published>
+    <updated>2018-07-16T16:39:50-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-botanical-extract-firming-facial-toner"/>
+    <title>Taza Natural Botanical Extract Firming Facial Toner</title>
+    <s:type>Toners &amp; Astringents</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Botanical_Extract_Firming_Facial_Toner_lead_picture.jpg?v=1536355831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Toners &amp; Astringents<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-botanical-extract-firming-facial-toner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Botanical Extract Firming Facial Toner</b> has moisturizing properties which help keep the skin hydrated. With an infusion of botanical extracts this toner nourishes and energizes the skin. These extracts help skin appear firmer and pores look tighter and more refined.</p>
+<p>This toner.contains: Tamarind Seed Extract, Chamomile Extract, Aloe Leaf Juice, Cucumber Extract, and Japanese Green Tea Extract. It  The following are benefits of these ingredients:</p>
+<ul>
+<li>The Chamomile Extract eases the itching of eczema and other rashes and reduces skin inflammation, is also speeds healing and prevents bacterial infection.</li>
+<li>The Cucumber Extract contains various minerals including magnesium, potassium, and silica. Silica can help reduce the appearance of fine lines and wrinkles. It also helps minimize the appearance of pores.</li>
+<li>The Aloe Leaf Juice Extract moisturizes the skin and reduces flaking and restores suppleness to enhance the appearance of dry or damaged skin. This extract removes wrinkles and gives the skin a healthier and younger looking appearance. It is a large resource of Vitamin E which reduces the damage to the skin caused by continuous itching. Sun burns can also be treated by using skin care products made of pure Aloe Vera Juice Extract. This ingredient is also used for treating acne problems, dryness of the skin, and any other type of skin problem.</li>
+<li>The Japanese Green Tea Extract has a strong antioxidant effect, which also protects the skin from the damaging effect of free radicals. This extract also contains methylxanthines that stimulates skin microcirculation and therefore positively influence the tone and health of the skin; this ingredient also reduces puffiness and dark circles around the eyes, slows and visibly reverses the look and signs of aging, and protects the skin against the abuse of the elements.</li>
+</ul>
+<p>This toner has no parabens, no phthalates and no sulphates. Additionally, this product is suitable for all skin types including the most sensitive.</p>
+<p>Prefer to shop for this product on Amazon.ca?<span> </span>No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01NAFP5ZN" target="_blank" rel="noopener noreferrer" title="Taza Natural Botanical Extract Firming Facial Toner">Taza Natural Botanical Extract Firming Facial Toner</a> to be redirected to this product's detail page on Amazon.com.</p>
+<p>Get your Taza Natural Botanical Extract Firming Facial Toner.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368435097713</id>
+    <published>2018-07-16T16:39:34-12:00</published>
+    <updated>2018-07-16T16:39:34-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-botanical-extract-facial-cleanser"/>
+    <title>Taza Natural Botanical Extract Facial Cleanser</title>
+    <s:type>Cleanser</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Botanical_Extract_Facial_Cleanser_lead_picture.jpg?v=1536355740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Cleanser<br>
+        <strong>Price: </strong>
+            17.19 - 21.49
+            <a href="https://www.tazaskincare.ca/products/taza-natural-botanical-extract-facial-cleanser">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Botanical Extract Facial Cleanser</b> is a mild botanical-based cleanser that is formulated to thoroughly cleanse the skin without stripping away essential moisture. This product contains: Chamomile Extract, Aloe Leaf Juice, Cucumber Extract, and Japanese Green Tea Extract. The following are benefits of these ingredients:</p>
+<ul>
+<li>The Chamomile Extract eases the itching of eczema and other rashes and reduces skin inflammation, is also speeds healing and prevents bacterial infection.</li>
+<li>The Cucumber Extract contains various minerals including magnesium, potassium, and silica. Silica can help reduce the appearance of fine lines and wrinkles. It also helps minimize the appearance of pores.</li>
+<li>The Aloe Leaf Juice Extract moisturizes the skin and reduces flaking and restores suppleness to enhance the appearance of dry or damaged skin. This extract removes wrinkles and gives the skin a healthier and younger looking appearance. It is a large resource of Vitamin E which reduces the damage to the skin caused by continuous itching. Sun burns can also be treated by using skin care products made of pure Aloe Vera Juice Extract. This ingredient is also used for treating acne problems, dryness of the skin, and any other type of skin problem.</li>
+<li>The Japanese Green Tea Extract has a strong antioxidant effect, which also protects the skin from the damaging effect of free radicals. This extract also contains methylxanthines that stimulates skin microcirculation and therefore positively influence the tone and health of the skin; this ingredient also reduces puffiness and dark circles around the eyes, slows and visibly reverses the look and signs of aging, and protects the skin against the abuse of the elements.</li>
+</ul>
+<div class="product-single__description rte" itemprop="description">
+<p><span>This cleanser has no parabens, no phthalates, and no sulphates. Additionally, this product is suitable for all skin types including the most sensitive. </span></p>
+<p><span>Prefer to shop for this product on Amazon.com? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01N7EQ01L" target="_blank" title="Taza Natural Botanical Extract Facial Cleanser" rel="noopener noreferrer">Taza Natural Botanical Extract Facial Cleanser</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p><span>Get your Taza Natural Botanical Extract Facial Cleanser.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>1+</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>2+</title>
+      <s:price currency="CAD">19.34</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>5+</title>
+      <s:price currency="CAD">18.27</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>7+</title>
+      <s:price currency="CAD">17.19</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+</feed>

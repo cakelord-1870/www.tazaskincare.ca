@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/natural-body-washes.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2018-09-19T18:23:18-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1498644480113</id>
+    <published>2018-09-19T18:23:18-12:00</published>
+    <updated>2018-09-19T18:23:18-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-white-volcanic-exfoliating-lava-body-wash"/>
+    <title>Taza Natural White Volcanic Lava Exfoliating Body Wash</title>
+    <s:type>Shower Gels</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170804203606_IMG_0788.jpg?v=1538760619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Shower Gels<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-natural-white-volcanic-exfoliating-lava-body-wash">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural White Volcanic Lava Body Wash</b> ha<b>s</b> a mild, rich lathering formula and contains moisturizers to make your skin feel soft and smooth. In addition, it rejuvenates and exfoliates to give your skin a younger looking appearance. It rinses clean leaving a beautiful fresh scent. The following are additional features of this body wash:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 97% Natural No Parabens No Phthalates No Sulphates Suitable for all skin types including the most sensitive </span></li>
+<li><span class="a-list-item"> Contains White Volcanic Lava from the Auvergne region of France, where more than 80 volcanoes erupted between 100,000 and 7000 years ago. The beautiful scenery of Europe was carved from these volcanoes and explains the natural mineral springs- famous for its healing spa's. The White Lava Powder cleanses and exfoliates, with a light scrubbing action removes dirt and tired skin from the body. </span></li>
+<li><span class="a-list-item"> Contains Glycerin, which is a humectant that attracts water like a magnet for treating dry, dehydrated skin </span></li>
+<li><span class="a-list-item"> Contains Aloe Leaf Juice, which soothes, calms, and provides anti-inflammatory benefits for your skin </span></li>
+</ul>
+<p>Key ingredients: White Volcanic Lava Powder, Aloe Leaf Juice &amp; Glycerin, All of our body washes are paraben, phthalates and sulphate free, and suitable for all skin types including the most sensitive.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural White Volcanic Exfoliating Lava Body Wash" href="https://www.amazon.ca/dp/B07GJSSZ95" target="_blank" rel="noopener noreferrer">Taza Natural White Volcanic Lava Exfoliating Lava Body Wash </a></span><span class="a-size-large" id="productTitle">to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural White Volcanic Lava Body Wash.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498644480113</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>natlavabodywash</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498644480113</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>natlavabodywash</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498644480113</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>natlavabodywash</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498644480113</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>natlavabodywash</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1498516455537</id>
+    <published>2018-09-19T04:13:46-12:00</published>
+    <updated>2018-09-19T04:13:46-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/aza-natural-omega-3-hemp-aloe-sandalwood-body-wash"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash</title>
+    <s:type>Shower Gels</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170813232255_IMG_0859.jpg?v=1605896975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Shower Gels<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/aza-natural-omega-3-hemp-aloe-sandalwood-body-wash">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash</b> has a mild, rich lathering formula and contains moisturizers to make your skin feel soft and smooth. In addition, it rejuvenates and gives your skin a younger looking appearance. It rinses clean leaving a beautiful fresh scent. The following are additional features of this body wash:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>99% Natural • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li><span class="a-list-item"> Contains Omega-3 Hemp Seed Oil and White Willow Bark Extract which assists the anti-aging processes by preventing wrinkles, skin sagging, and premature aging for a younger looking appearance; the Omega-3 Hemp Seed Oil is also useful in alleviating skin conditions such as eczema, acne, and psoriasis; and this ingredient, in combination with the Glycerin, provides long lasting hydration and moisture to smoothen and soften your skin </span></li>
+<li><span class="a-list-item"><span style="font-size: small;" size="2"> </span><span style="color: #007000;" color="#007000"></span>Contains Chamomile Flower Extract, which in combination with the Aloe Leaf Juice: soothes, calms, and provides anti-inflammatory benefits for your skin </span></li>
+<li><span class="a-list-item"> Contains extremely mild surfactants that's tough on dirt and daily grime, yet mild enough to use as a face wash, or for use on children</span></li>
+</ul>
+<p>Key ingredients: Omega-3 Hemp Seed Oil, Aloe Leaf Juice, Glycerine, Chamomile Flower Extract, White Willow Bark Extract. Taza Omega-3 Hemp &amp; Aloe Body Washes comes also in Coconut, Olive and Coconut Lime scents.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash" href="https://www.amazon.ca/dp/B07GJXKP74" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash.</p>
+<p>Get these other excellent Taza Omega-3 Hemp &amp; Aloe Natural Body Washes: <a title="Taza Natural Omega-3 Hemp &amp; Aloe Coconut Body Wash" href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-coconut-body-wash" target="_blank" rel="noopener noreferrer">Coconut</a>, <a title="Taza Natural Omega-3 Hemp &amp; Aloe Coconut Lime Body Wash" href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-coconut-lime-body-wash" target="_blank" rel="noopener noreferrer">Coconut Lime </a>and <a title="Taza Natural Omega-3 Hemp &amp; Aloe Olive Body Wash" href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-olive-body-wash" target="_blank" rel="noopener noreferrer">Olive Body Wash.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498516455537</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>natsandalwoodbw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498516455537</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>natsandalwoodbw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498516455537</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>natsandalwoodbw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498516455537</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>natsandalwoodbw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368444665969</id>
+    <published>2018-07-16T16:42:45-12:00</published>
+    <updated>2018-07-16T16:42:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-tea-tree-charcoal-soap"/>
+    <title>Taza Tea Tree Oil and Activated Charcoal Natural Soap (Pack of 3)</title>
+    <s:type>Soaps</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Tea_Treet_Activated_Charcoal_-9050.jpg?v=1536356719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Soaps<br>
+        <strong>Price: </strong>
+            21.59 - 26.99
+            <a href="https://www.tazaskincare.ca/products/taza-tea-tree-charcoal-soap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Tea Tree Oil and Activated Charcoal Natural Soap</b> provides mild cleansing and keeps your skin soft, radiant, glowing, and healthy. It also regenerates and moisturizes your skin. Essential Oil. The following are additional features of this soap: </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Handmade • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive • Palm Fruit Oil and all other ingredients are obtained only from environmentally responsible and sustainable sources </span></li>
+<li><span class="a-list-item"> Contains Activated Bamboo Charcoal which absorb minerals, toxins, impurities, and other harmful substances from your skin, leaving your skin stronger and healthier; this ingredient also acts as a natural exfoliant to remove dead skin cells and is an effective, natural treatment for acne; moreover, the Activated Bamboo Charcoal enables this soap to clean deep inside your skin pores </span></li>
+<li><span class="a-list-item"> Contains Tea Tree Oil which is known to help clear up acne without being overly drying. This oil is also a natural antiseptic, helping to reduce bacteria and inflammation on your skin’s surface; Tea Tree Oil is very effective in resolving body odor issues - as it contains antibacterial properties which deals with embarrassing smells </span></li>
+<li><span class="a-list-item"> Contains Coconut Oil, Olive Oil, and Palm Fruit Oil which assists the anti-wrinkle process and prevents wrinkles, skin sagging, and premature aging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> Contains Kaolin Clay which detoxifies and cleanses your skin and removes dull skin layers for remarkable skin regeneration </span></li>
+</ul>
+<p>Key ingredients: Tea Tree Essential Oil, Activated Bamboo Charcoal, Coconut Oil, Olive Oil, Palm Fruit Oil, Mango Butter, and Kaolin Clay.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B06X9Q7MWX" target="_blank" title="Taza Tea Tree and Activated Charcoal Natural Soap" rel="noopener noreferrer">Taza Tea Tree and Activated Charcoal Natural Soap</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Tea Tree and Activated Charcoal Natural Soap.</p>
+<p>Get these other excellent Taza Natural Soaps: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-oatmeal-milk-honey-soap" target="_blank" rel="noopener noreferrer">Oatmeal Milk &amp; Honey Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-sandalwood-soap" target="_blank" rel="noopener noreferrer">Taza Sandalwood Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-dead-sea-mineral-mud-natural-soap" target="_blank" rel="noopener noreferrer">Dead Sea Mineral Mud Soap</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444665969</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>TZ-04UN-NG54</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444665969</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>TZ-04UN-NG54</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444665969</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.94</s:price>
+      <s:sku>TZ-04UN-NG54</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444665969</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>TZ-04UN-NG54</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368444436593</id>
+    <published>2018-07-16T16:42:37-12:00</published>
+    <updated>2018-07-16T16:42:37-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-sandalwood-soap"/>
+    <title>Taza Sandalwood Natural Soap (Pack of 3)</title>
+    <s:type>Soaps</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Sandalwood_Soap-0019_-_Angle_View_-_updated_Feb_15_2016.jpg?v=1536356679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Soaps<br>
+        <strong>Price: </strong>
+            20.79 - 25.99
+            <a href="https://www.tazaskincare.ca/products/taza-sandalwood-soap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Sandalwood Natural Soap</b> provides mild cleansing and keeps your skin soft, radiant, glowing, and healthy. It also regenerates and moisturizes your skin. The following are additional features of this soap:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Handmade • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive • Palm Fruit Oil and all other ingredients are obtained only from environmentally responsible and sustainable sources </span></li>
+<li><span class="a-list-item"> Contains Sandalwood Powder which has an antiseptic quality effective at treating rashes, acne, blackheads, and other skin eruptions for clear and blemish free skin </span></li>
+<li><span class="a-list-item"> Contains Coconut Oil and Olive Oil which assists the anti-aging process and prevents wrinkles, skin sagging, and premature aging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> Contains Shea Butter which provides intense hydration and moisture for your skin </span></li>
+<li><span class="a-list-item"> Contains Kaolin Clay which detoxifies and cleanses your skin and removes dull skin layers for remarkable skin regeneration </span></li>
+</ul>
+<p>Key ingredients: Coconut Oil, Olive Oil,  Shea Butter, Sandalwood Powder, and Kaolin Clay.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Sandalwood Natural Soap" href="https://www.amazon.ca/dp/B00XNQG494" target="_blank" rel="noopener noreferrer">Taza Sandalwood Natural Soap</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Sandalwood Natural Soap.</p>
+<p>Get these other excellent Taza Natural Soaps: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-oatmeal-milk-honey-soap" target="_blank" rel="noopener noreferrer">Oatmeal Milk &amp; Honey Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-tea-tree-charcoal-soap" target="_blank" rel="noopener noreferrer">Tea Tree Oil &amp; Activated Charcoal Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-dead-sea-mineral-mud-natural-soap" target="_blank" rel="noopener noreferrer">Dead Sea Mineral Mud Soap</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444436593</id>
+      <title>1+</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>IF-UZWJ-D9N9</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444436593</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.39</s:price>
+      <s:sku>IF-UZWJ-D9N9</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444436593</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.09</s:price>
+      <s:sku>IF-UZWJ-D9N9</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444436593</id>
+      <title>7+</title>
+      <s:price currency="CAD">20.79</s:price>
+      <s:sku>IF-UZWJ-D9N9</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368444010609</id>
+    <published>2018-07-16T16:42:23-12:00</published>
+    <updated>2018-07-16T16:42:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-oatmeal-milk-honey-soap"/>
+    <title>Taza Oatmeal Milk &amp; Honey Natural Soap (Pack of 3)</title>
+    <s:type>Soaps</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Oatmeal_Milk_Honey_angle_view-9200_-_Feb_13_2016.jpg?v=1536356617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Soaps<br>
+        <strong>Price: </strong>
+            21.59 - 26.99
+            <a href="https://www.tazaskincare.ca/products/taza-oatmeal-milk-honey-soap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Oatmeal Milk &amp; Honey Natural Soap</b> provides mild cleansing and keeps your skin soft, radiant, glowing, and healthy. It also regenerates and moisturizes your skin and smells fantastic. The following are additional features of this soap: </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Handmade • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive • Palm Fruit Oil and all other ingredients are obtained only from environmentally responsible and sustainable sources </span></li>
+<li><span class="a-list-item"> Contains Oats, which is a soothing anti-inflammatory and redness remover when applied to the skin; it also helps with skin itching </span></li>
+<li><span class="a-list-item"> Contains Coconut Oil, Olive Oil, Goats Milk, and Honey which assists the anti-aging process and prevents wrinkles, skin sagging, and premature aging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> Contains Shea Butter, Goats Milk, and Honey all of which provides intense hydration and moisture for your skin </span></li>
+<li><span class="a-list-item"> Contains Kaolin Clay which detoxifies and cleanses your skin and removes dull skin layers for remarkable skin regeneration </span></li>
+</ul>
+<p>Key ingredients: Coconut Oil, Olive Oil, Shea Butter, Kaolin Clay, Oats, Honey, and Goats Milk.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Oatmeal Milk &amp; Honey Natural Soap" href="https://www.amazon.ca/dp/B00S245F2O" target="_blank" rel="noopener noreferrer">Taza Oatmeal Milk &amp; Honey Natural Soap</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Oatmeal Milk &amp; Honey Natural Soap.</p>
+<p>Get these other excellent Taza Natural Soaps: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-sandalwood-soap" target="_blank" rel="noopener noreferrer">Sandalwood Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-tea-tree-charcoal-soap" target="_blank" rel="noopener noreferrer">Tea Tree Oil &amp; Activated Charcoal Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-dead-sea-mineral-mud-natural-soap" target="_blank" rel="noopener noreferrer">Dead Sea Mineral Mud Soap</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.94</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444010609</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>natoatmealsoap1</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368440012913</id>
+    <published>2018-07-16T16:41:11-12:00</published>
+    <updated>2018-07-16T16:41:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-olive-body-wash"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Olive Body Wash</title>
+    <s:type>Shower Gels</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170818182326_IMG_0908.jpg?v=1536356259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Shower Gels<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-olive-body-wash">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Olive Body Wash</b> has a mild, rich lathering formula and contains moisturizers to make your skin feel soft and smooth. In addition, it rejuvenates and gives your skin a younger looking appearance. It rinses clean leaving a beautiful fresh scent. The following are additional features of this body wash:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">99% Natural • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive </span></li>
+<li><span class="a-list-item"> Contains Omega-3 Hemp Seed Oil and White Willow Bark Extract which assists the anti-aging processes by preventing wrinkles, skin sagging, and premature aging for a younger looking appearance; the Omega-3 Hemp Seed Oil is also useful in alleviating skin conditions such as eczema, acne, and psoriasis; and this ingredient, in combination with the Glycerin, provides long lasting hydration and moisture to smoothen and soften your skin </span></li>
+<li><span class="a-list-item"> Contains Chamomile Flower Extract, which in combination with the Aloe Leaf Juice: soothes, calms, and provides anti-inflammatory benefits for your skin </span></li>
+<li><span class="a-list-item"> Contains extremely mild surfactants that's tough on dirt and daily grime, yet mild enough to use as a face wash, or for use on children</span></li>
+</ul>
+<p>Key ingredients: Omega-3 Hemp Seed Oil, Aloe Leaf Juice, Glycerine, Chamomile Flower Extract, White Willow Bark Extract. Taza Omega-3 Hemp &amp; Aloe Body Washes comes also in Sandalwood, Coconut and Coconut Lime scents.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Omega-3 Hemp &amp; Aloe Olive Body Wash" href="https://www.amazon.ca/dp/B01AYGOITI" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Olive Body Wash</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Olive Body Wash.</p>
+<p>Get these other excellent Taza Omega-3 Hemp &amp; Aloe Natural Body Washes: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-coconut-body-wash" target="_blank" rel="noopener noreferrer">Coconut Body Wash,</a> <a title="Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash" href="https://www.tazaskincare.ca/collections/natural-body-washes/products/aza-natural-omega-3-hemp-aloe-sandalwood-body-wash" target="_blank" rel="noopener noreferrer">Sandalwood,</a> and <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-coconut-lime-body-wash" target="_blank" rel="noopener noreferrer">Coconut Lime Body Wash</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440012913</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>natoliveomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440012913</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>natoliveomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440012913</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>natoliveomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440012913</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>natoliveomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368439652465</id>
+    <published>2018-07-16T16:41:05-12:00</published>
+    <updated>2018-07-16T16:41:05-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-coconut-lime-body-wash"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Coconut Lime Body Wash</title>
+    <s:type>Shower Gels</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170818181908_IMG_0900.jpg?v=1536356174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Shower Gels<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-coconut-lime-body-wash">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Coconut Lime Body Wash</b> has a mild, rich lathering formula and contains moisturizers to make your skin feel soft and smooth. In addition, it rejuvenates and gives your skin a younger looking appearance. It rinses clean leaving a beautiful fresh scent. The following are additional features of this body wash:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">99% Natural • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive </span></li>
+<li><span class="a-list-item"> Contains Omega-3 Hemp Seed Oil and White Willow Bark Extract which assists the anti-wrinkle processes by preventing wrinkles, skin sagging, and premature aging for a younger looking appearance; the Omega-3 Hemp Seed Oil is also useful in alleviating skin conditions such as eczema, acne, and psoriasis; and this ingredient, in combination with the Glycerin, provides long lasting hydration and moisture to smoothen and soften your skin </span></li>
+<li><span class="a-list-item"> Contains Chamomile Flower Extract, which in combination with the Aloe Leaf Juice: soothes, calms, and provides anti-inflammatory benefits for your skin </span></li>
+<li><span class="a-list-item"> Contains extremely mild surfactants that's tough on dirt and daily grime, yet mild enough to use as a face wash, or for use on children</span></li>
+</ul>
+<p>Key ingredients: Omega-3 Hemp Seed Oil, Aloe Leaf Juice, Glycerine, Chamomile Flower Extract, White Willow Bark Extract.Taza Omega-3 Hemp &amp; Aloe Body Washes comes also in Sandalwood, Olive and Coconut scents.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Omega-3 Hemp &amp; Aloe Coconut Lime Body Wash" href="https://www.amazon.ca/dp/B01AYGGPD0" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Coconut Lime Body Wash</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Coconut Lime Body Wash.</p>
+<p>Get these other excellent Taza Omega-3 Hemp &amp; Aloe Natural Body Washes: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-coconut-body-wash" target="_blank" rel="noopener noreferrer">Coconut Body Wash,</a> <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/aza-natural-omega-3-hemp-aloe-sandalwood-body-wash" target="_blank" title="Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash" rel="noopener noreferrer">Sandalwood</a>, and <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-olive-body-wash" target="_blank" rel="noopener noreferrer">Olive Body Wash</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439652465</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>natcoconutlimeomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439652465</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>natcoconutlimeomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439652465</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>natcoconutlimeomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439652465</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>natcoconutlimeomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368439193713</id>
+    <published>2018-07-16T16:40:54-12:00</published>
+    <updated>2018-07-16T16:40:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-coconut-body-wash"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Coconut Body Wash</title>
+    <s:type>Shower Gels</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170818182155_IMG_0904.jpg?v=1571935875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Shower Gels<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-coconut-body-wash">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Coconut Body Wash</b> has a mild, rich lathering formula and contains moisturizers to make your skin feel soft and smooth. In addition, it rejuvenates and gives your skin a younger looking appearance. It rinses clean leaving a beautiful fresh scent. The following are additional features of this body wash:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>99% Natural • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li><span class="a-list-item"> Contains Omega-3 Hemp Seed Oil and White Willow Bark Extract which assists the anti-aging processes by preventing wrinkles, skin sagging, and premature aging for a younger looking appearance; the Omega-3 Hemp Seed Oil is also useful in alleviating skin conditions such as eczema, acne, and psoriasis; and this ingredient, in combination with the Glycerin, provides long lasting hydration and moisture to smoothen and soften your skin </span></li>
+<li><span class="a-list-item"><span style="font-size: small;" size="2"> </span><span style="color: #007000;" color="#007000"></span>Contains Chamomile Flower Extract, which in combination with the Aloe Leaf Juice: soothes, calms, and provides anti-inflammatory benefits for your skin </span></li>
+<li><span class="a-list-item"> Contains extremely mild surfactants that's tough on dirt and daily grime, yet mild enough to use as a face wash, or for use on children</span></li>
+</ul>
+<p>Key ingredients: Omega-3 Hemp Seed Oil, Aloe Leaf Juice, Glycerine, Chamomile Flower Extract, White Willow Bark Extract. Taza Omega-3 Hemp &amp; Aloe Body Washes comes also in Sandalwood, Olive and Coconut Lime scents.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Omega-3 Hemp &amp; Aloe Coconut Body Wash" href="https://www.amazon.ca/dp/B01AYERE46" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Coconut Body Wash</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Coconut Body Wash.</p>
+<p>Get these other excellent Taza Omega-3 Hemp &amp; Aloe Natural Body Washes: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-coconut-lime-body-wash" target="_blank" rel="noopener noreferrer">Coconut Lime Body Wash,</a> <a title="Taza Natural Omega-3 Hemp &amp; Aloe Sandalwood Body Wash" href="https://www.tazaskincare.ca/collections/natural-body-washes/products/aza-natural-omega-3-hemp-aloe-sandalwood-body-wash" target="_blank" rel="noopener noreferrer">Sandalwood,</a> and <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-olive-body-wash" target="_blank" rel="noopener noreferrer">Olive Body Wash</a><a href="https://tazaskincare.com/collections/natural-moisturizers/products/taza-olive-hand-body-lotion" target="_blank" rel="noopener noreferrer"></a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439193713</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>natcoconutomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439193713</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>natcoconutomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439193713</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>natcoconutomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368439193713</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>natcoconutomega3hempaloebw</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368434081905</id>
+    <published>2018-07-16T16:39:23-12:00</published>
+    <updated>2018-07-16T16:39:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-dead-sea-mineral-mud-natural-soap"/>
+    <title>Taza Dead Sea Mineral Mud Natural Soap (Pack of 3)</title>
+    <s:type>Soaps</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Dead_Sea_Mud_-9040.jpg?v=1536355712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Soaps<br>
+        <strong>Price: </strong>
+            21.19 - 26.49
+            <a href="https://www.tazaskincare.ca/products/taza-dead-sea-mineral-mud-natural-soap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Dead Sea Mineral Mud Natural Soap </b> provides mild cleansing and keeps your skin soft, radiant, glowing, and healthy. It also regenerates and moisturizes your skin. Amazingly scented with therapeutic Eucalyptus Essential Oil. <span>The following are additional features of this soap:</span> </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Handmade • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive • Palm Fruit Oil and all other ingredients are obtained only from environmentally responsible and sustainable sources </span></li>
+<li><span class="a-list-item"> Application of Dead Sea Mineral Mud removes toxins, impurities, and dirt from your skin for an amazing clean; it also tightens and tones your complexion, and improves blood circulation to aid in cell regeneration </span></li>
+<li><span class="a-list-item"> Contains Coconut Oil, Olive Oil, and Palm Fruit Oil which assists the anti-wrinkle process and prevents wrinkles, skin sagging, and premature aging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> Contains Shea Butter which assists the anti-wrinkle process by boosting your skin's collagen production and reduces wrinkles, fine lines, and skin sagging for a younger looking appearance; Shea Butter also forms a protective barrier over your skin to hold in moisture and effectively relieves dry itchy skin </span></li>
+<li><span class="a-list-item"> Contains Kaolin Clay which detoxifies and cleanses your skin and removes dull skin layers for remarkable skin regeneration </span></li>
+</ul>
+<p>Key ingredients: Dead Sea Mineral Mud, Coconut Oil, Olive Oil, Palm Fruit Oil, Shea Butter, and Kaolin Clay.</p>
+<p>Prefer to shop for this product on Amazon.ca?<span> </span>No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B06WW664M9" target="_blank" title="Taza Dead Sea Mineral Mud Natural Soap (Pack of 3)" rel="noopener noreferrer">Taza Dead Sea Mineral Mud Natural Soap (Pack of 3)</a> to be redirected to this product's detail page on Amazon.com.</p>
+<p>Get your Taza Dead Sea Mineral Mud Natural Soap.</p>
+<p>Get these other excellent Taza Natural Soaps: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-sandalwood-soap" target="_blank" rel="noopener noreferrer">Sandalwood Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-tea-tree-charcoal-soap" target="_blank" rel="noopener noreferrer">Tea Tree Oil &amp; Activated Charcoal Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-oatmeal-milk-honey-soap" target="_blank" rel="noopener noreferrer">Oatmeal Milk &amp; Honey Natural Soap</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.49</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.52</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.19</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

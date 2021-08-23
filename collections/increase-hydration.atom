@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/increase-hydration.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2018-07-16T16:42:02-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368443256945</id>
+    <published>2018-07-16T16:42:02-12:00</published>
+    <updated>2018-07-16T16:42:02-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-unscented-hand-body-lotion"/>
+    <title>Taza Natural Unscented African Shea Hand &amp; Body Lotion</title>
+    <s:type>Lotions</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20191229194949_IMG_1347-2.jpg?v=1610351592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Lotions<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-unscented-hand-body-lotion">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+</div>
+<div>
+<b>Taza Natural Unscented African Shea Hand and Body Lotion</b><span> is an ultra hydrating, silky body moisturizer that smoothly glides over your skin giving it a smooth-as-satin texture and leaving it feeling velvety-soft to touch. The following are additional features of this hand and body lotion: </span>
+</div>
+<div>
+<ul>
+<li><span class="a-list-item">99% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive</span></li>
+<li><span class="a-list-item">Contains Shea Butter, Coconut Oil, Almond Oil, and Sunflower Oil which forms a protective barrier over your skin to hold in moisture and effectively relieve dry itchy skin</span></li>
+<li><span class="a-list-item">This Hand &amp; Body Lotion can offer some sun protection and support treatment of skin conditions like eczema, psoriasis, and skin inflammation for healthier looking skin</span></li>
+<li><span class="a-list-item">The Shea Butter, Coconut Oil, and Almond Oil ingredients assist the anti-wrinkle process by boosting your skin's collagen production and reducing wrinkles, fine lines, and skin sagging for a younger looking appearance</span></li>
+<li><span class="a-list-item">Taza Natural Hand &amp; Body Lotion and Taza Peppermint Dead Sea Salt Scrub are frequently purchased together</span></li>
+</ul>
+</div>
+<p>Key Ingredients: Glycerin, Sunflower Seed Oil, Shea Butter, Coconut Oil, Sweet Almond Oil and Vitamin E. Our hand and body lotions also come in Coconut Lime, Unscented, and Olive. These lotions are paraben, phthalates, gluten and sulphates free, and suitable for all skin types including the most sensitive.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B00QGC9WEG" target="_blank" title="Taza Natural Unscented African Shea Hand &amp; Body Lotion" rel="noopener noreferrer">Taza Natural Unscented African Shea Hand &amp; Body Lotion</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Unscented African Shea Hand &amp; Body Lotion.</p>
+<p>Get these other excellent Taza Natural Hand and Body Lotions: <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-coconut-hand-body-lotion" target="_blank" rel="noopener noreferrer">Coconut Hand &amp; Body Lotion</a> and <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-olive-hand-body-lotion" target="_blank" rel="noopener noreferrer">Olive Hand &amp; Body Lotion</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443256945</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>natorangecranbl</s:sku>
+      <s:grams>506</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443256945</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>natorangecranbl</s:sku>
+      <s:grams>506</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443256945</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>natorangecranbl</s:sku>
+      <s:grams>506</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443256945</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>natorangecranbl</s:sku>
+      <s:grams>506</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368442830961</id>
+    <published>2018-07-16T16:41:56-12:00</published>
+    <updated>2018-07-16T16:41:56-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-unscented-body-butter"/>
+    <title>Taza Natural Unscented African Shea Body Butter</title>
+    <s:type>Body Butter</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/African_Shea-5365.jpg?v=1536356494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Body Butter<br>
+        <strong>Price: </strong>
+            14.39 - 17.99
+            <a href="https://www.tazaskincare.ca/products/taza-unscented-body-butter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Unscented African Shea Body Butter</b> is exclusively formulated with the vitamin rich natural moisturizers of Shea, Cocoa, and Pumpkin butters. It is an ultra-concentrated moisturizer that will give you intense hydration to leave your skin smooth, healthy and soft. Our blend of Sunflower, Coconut, Grapeseed, and Almond oils penetrate and absorb easily into your skin; leaving your skin soft but not greasy. A little goes a long way. <span>The following are additional features of this body butter:</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive </span></li>
+<li><span class="a-list-item"> Enriched with Shea Butter, Coconut Oil, Pumpkin Butter, Cocoa Butter, and Sunflower Oil to provide long lasting intense moisture for very dry skin </span></li>
+<li><span class="a-list-item"> This body butter is very high in Omega 3 and Antioxidants to soften and provide long lasting hydration; it also rejuvenates your skin, treats and prevents stretch marks, and effectively relieves dry itchy skin, cracked heels, rough skin, sun damage </span></li>
+<li><span class="a-list-item"> The Shea Butter, Pumpkin Butter, Cocoa Butter, Coconut Oil, Grapeseed Oil, and Almond Oil ingredients assist the anti-wrinkle process by boosting your skin's collagen production and reducing wrinkles, fine lines, and skin sagging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> The Cocoa Butter also improves skins elasticity and tone, helps reduce scars and stretch marks; amazing for dry skin and can actually penetrate further than the top layer of the skin, meaning it moisturizes deep-down and really nourishes the skin </span></li>
+</ul>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B011HUHI4C" target="_blank" title="Taza Natural Unscented African Shea Body Butter" rel="noopener noreferrer">Taza Natural Unscented African Shea Body Butter</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Natural Unscented African Shea Body Butter.</p>
+<p>Get also the <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-natural-coconut-body-butter" target="_blank" rel="noopener noreferrer">Taza Natural Coconut Body Butter</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442830961</id>
+      <title>1+</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>natunafrsheabb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442830961</id>
+      <title>2+</title>
+      <s:price currency="CAD">16.19</s:price>
+      <s:sku>natunafrsheabb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442830961</id>
+      <title>5+</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>natunafrsheabb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442830961</id>
+      <title>7+</title>
+      <s:price currency="CAD">14.39</s:price>
+      <s:sku>natunafrsheabb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368438571121</id>
+    <published>2018-07-16T16:40:47-12:00</published>
+    <updated>2018-07-16T16:40:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-olive-hand-body-lotion"/>
+    <title>Taza Natural Olive Branch Hand &amp; Body Lotion</title>
+    <s:type>Lotions</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170915210823_IMG_0933.jpg?v=1600892644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Lotions<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-olive-hand-body-lotion">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+</div>
+<div>
+<b>Taza Natural Hand and Body Olive Branch Lotion</b><span> is an ultra hydrating, silky body moisturizer that smoothly glides over your skin giving it a smooth-as-satin texture and leaving it feeling velvety-soft to touch. The following are additional features of this hand and body lotion: </span>
+</div>
+<div>
+<ul>
+<li><span class="a-list-item">99% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive</span></li>
+<li><span class="a-list-item">Contains Shea Butter, Coconut Oil, Almond Oil, and Sunflower Oil which forms a protective barrier over your skin to hold in moisture and effectively relieve dry itchy skin</span></li>
+<li><span class="a-list-item">This Hand &amp; Body Lotion can offer some sun protection and support treatment of skin conditions like eczema, psoriasis, and skin inflammation for healthier looking skin</span></li>
+<li><span class="a-list-item">The Shea Butter, Coconut Oil, and Almond Oil ingredients assist the anti-wrinkle process by boosting your skin's collagen production and reducing wrinkles, fine lines, and skin sagging for a younger looking appearance</span></li>
+<li><span class="a-list-item">Taza Natural Hand &amp; Body Lotion and Taza Peppermint Dead Sea Salt Scrub are frequently purchased together</span></li>
+</ul>
+</div>
+<p>Key Ingredients: Glycerin, Sunflower Seed Oil, Shea Butter, Coconut Oil, Sweet Almond Oil and Vitamin E. Our hand and body lotions also come in Coconut Lime, Unscented, and Olive. These lotions are paraben, phthalates, gluten and sulphates free, and suitable for all skin types including the most sensitive.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B085S89WXL" title="Taza Natural Olive Branch Hand and Body Lotion">Taza Natural Olive Branch Hand and Body Lotion</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Hand and Body Olive Branch Lotion.</p>
+<p>Get these other excellent Taza Natural Hand and Body Lotions: <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-unscented-hand-body-lotion" target="_blank">Unscented African Shea Hand &amp; Body Lotion</a> and <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-coconut-hand-body-lotion" target="_blank">Coconut Hand &amp; Body Lotion</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438571121</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>natolivebl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438571121</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>natolivebl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438571121</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>natolivebl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438571121</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>natolivebl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368436932721</id>
+    <published>2018-07-16T16:40:16-12:00</published>
+    <updated>2018-07-16T16:40:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-coconut-hand-body-lotion"/>
+    <title>Taza Natural Coconut Hand &amp; Body Lotion</title>
+    <s:type>Lotions</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200116233758_IMG_1370.jpg?v=1612215515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Lotions<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-coconut-hand-body-lotion">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+</div>
+<div>
+<b>Taza Natural Hand and Body Coconut Lotion</b><span> is an ultra hydrating, silky body </span>moisturizer that smoothly glides over your skin giving it a smooth-as-satin texture and leaving it feeling velvety-soft to touch. The following are additional features of this hand and body lotion: </div>
+<div></div>
+<div></div>
+<div>
+<ul>
+<li>99% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li><span class="a-list-item">Contains Shea Butter, Coconut Oil, Almond Oil, and Sunflower Oil which forms a protective barrier over your skin to hold in moisture and effectively relieve dry itchy skin</span></li>
+<li><span class="a-list-item">This Hand &amp; Body Lotion can offer some sun protection and support treatment of skin conditions like eczema, psoriasis, and skin inflammation for healthier looking skin</span></li>
+<li><span class="a-list-item">The Shea Butter, Coconut Oil, and Almond Oil ingredients assist the anti-wrinkle process by boosting your skin's collagen production and reducing wrinkles, fine lines, and skin sagging for a younger looking appearance</span></li>
+<li><span class="a-list-item">Taza Natural Hand &amp; Body Lotion and Taza Peppermint Dead Sea Salt Scrub are frequently purchased together</span></li>
+</ul>
+</div>
+<p>Key Ingreients: Glycerin, Sunflower Seed Oil, Shea Butter, Coconut Oil, Sweet Almond Oil and Vitamin E. Our hand and body lotions also come in Coconut Lime, Unscented, and Olive. <span>These lotions are paraben, phthalates, gluten and sulphates free, and suitable for all skin types including the most sensitive. </span></p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B00QGC7LNU" target="_blank" title="Taza Natural Hand and Body Coconut Lotion" rel="noopener noreferrer">Taza Natural Hand and Body Coconut Lotion</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Hand and Body Coconut Lotion.</p>
+<p>Get these other excellent Taza Natural Hand and Body Lotions: <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-unscented-hand-body-lotion" target="_blank" rel="noopener noreferrer">Unscented African Shea Hand &amp; Body Lotion</a> and <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-olive-hand-body-lotion" target="_blank" rel="noopener noreferrer">Olive Hand &amp; Body Lotion</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436932721</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>natcoconutbl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436932721</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>natcoconutbl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436932721</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>natcoconutbl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436932721</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>natcoconutbl</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368436506737</id>
+    <published>2018-07-16T16:40:08-12:00</published>
+    <updated>2018-07-16T16:40:08-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-coconut-body-butter"/>
+    <title>Taza Natural Coconut Body Butter</title>
+    <s:type>Body Butter</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Coconut_8.oz-9100_-_updated_Aug_24_2017_large_size.jpg?v=1536355858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Body Butter<br>
+        <strong>Price: </strong>
+            14.39 - 17.99
+            <a href="https://www.tazaskincare.ca/products/taza-natural-coconut-body-butter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Coconut Body Butter</b> is exclusively formulated with the vitamin rich natural moisturizers of Shea Butter and Jojoba Oil. It is an ultra-concentrated moisturizer that will give you intense hydration to leave your skin smooth, healthy and soft. Our blend of Sunflower, Coconut, and Jojoba oils penetrate and absorb easily into your skin; leaving your skin soft but not greasy. A little goes a long way. The following are additional features of this body butter:</p>
+<ul>
+<li>99% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li>Contains Shea Butter, Coconut Oil, Jojoba Oil, and Sunflower Oil which forms a protective barrier over your skin to hold in moisture</li>
+<li>This body butter is very high in Omega 3 and Antioxidants to soften and provide long lasting hydration; it also rejuvenates your skin, treats and prevents stretch marks, and effectively relieves dry itchy skin, cracked heels, rough skin, sun damage</li>
+<li>The Shea Butter, Coconut Oil, and Jojoba Oil assist the anti-wrinkle process by boosting your skin's collagen production and reducing wrinkles, fine lines, and skin sagging for a younger looking appearance</li>
+<li> Improves skins elasticity and tone, helps reduce scars and stretch marks; amazing for dry skin and can actually penetrate further than the top layer of the skin, meaning it moisturizes deep-down and really nourishes the skin</li>
+</ul>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Coconut Body Butter" href="https://www.amazon.ca/dp/B00QG9OF6E" target="_blank" rel="noopener noreferrer">Taza Natural Coconut Body Butter</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural Coconut Body Butter.</p>
+<p>Get also the <a href="https://www.tazaskincare.ca/collections/natural-hand-body-lotions/products/taza-unscented-body-butter" target="_blank" rel="noopener noreferrer">Taza Natural Unscented African Shea Body Butter</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436506737</id>
+      <title>1+</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>natcoconutbb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436506737</id>
+      <title>2+</title>
+      <s:price currency="CAD">16.19</s:price>
+      <s:sku>natcoconutbb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436506737</id>
+      <title>5+</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>natcoconutbb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368436506737</id>
+      <title>7+</title>
+      <s:price currency="CAD">14.39</s:price>
+      <s:sku>natcoconutbb</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+</feed>

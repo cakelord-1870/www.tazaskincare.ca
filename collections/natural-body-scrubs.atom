@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/natural-body-scrubs.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2019-05-19T05:25:45-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/2615878025329</id>
+    <published>2019-05-19T05:25:45-12:00</published>
+    <updated>2019-05-19T05:25:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-activated-charcoal-face-body-scrub"/>
+    <title>Taza Natural Activated Charcoal Face &amp; Body Scrub</title>
+    <s:type>Body Scrubs</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Activated_Charcoal_Scrub_Main_Image-2_amazon_uploaded-2.jpg?v=1558287190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Body Scrubs<br>
+        <strong>Price: </strong>
+            21.99 - 27.49
+            <a href="https://www.tazaskincare.ca/products/taza-natural-activated-charcoal-face-body-scrub">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Activated Charcoal Scrub</b> is used to eliminate the top layer of the epidermus, bringing newer skin to the surface of the face and body. The Lava Powder exfoliant in this scrub is gentle enough to be used for the face and body for a rejuvenated healthy appearance.</p>
+<ul>
+<li>99% Natural • Citrus Scented • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li>Contains Activated Bamboo Charcoal which absorbs minerals, toxins, impurities, and other harmful substances from your skin, leaving your skin stronger and healthier; this ingredient also acts as a natural exfoliant to remove dead skin cells and it is an effective natural treatment for acne; moreover, the Activated Bamboo Charcoal enables this scrub to clean deep inside your skin's pores</li>
+<li>Contains Shea Butter and Coconut Oil which: provides antioxidants; assists the anti-aging process by boosting your skin's collagen production; reduces wrinkles, fine lines, and skin sagging for a younger looking appearance. Shea Butter also forms a protective barrier over your skin to hold in moisture and effectively relieves dry itchy skin</li>
+<li>Contains Jojoba Oil, which is both anti-bacterial and anti-inflammatory; its use has been shown to help control the symptoms of eczema and psoriasis</li>
+<li>Contains White Volcanic Lava from the Auvergne region of France, where more than 80 volcanoes erupted between 100,000 and 7000 years ago. The beautiful scenery of Europe was carved from these volcanoes and explains the natural mineral springs - famous for its healing spas. The White Lava Powder cleanses and exfoliates; with a light scrubbing action it removes dirt and tired skin from the body</li>
+</ul>
+<p>The Taza Activated Charcoal Scrub goes great with our Taza Hand and Body Lotions or Taza Body Butters to lock in all that hydration and keep your skin looking its best.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Activated Charcoal Face &amp; Body Scrub" href="https://www.amazon.ca/dp/B07L21M8M6" target="_blank" rel="noopener noreferrer">Taza Natural Activated Charcoal Face &amp; Body Scrub</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Activated Charcoal Face &amp; Body Scrub.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615878025329</id>
+      <title>1+</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>charcoalfaceandbodyscrub</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615878025329</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.74</s:price>
+      <s:sku>charcoalfaceandbodyscrub</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615878025329</id>
+      <title>5+</title>
+      <s:price currency="CAD">23.37</s:price>
+      <s:sku>charcoalfaceandbodyscrub</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615878025329</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>charcoalfaceandbodyscrub</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368444043377</id>
+    <published>2018-07-16T16:42:32-12:00</published>
+    <updated>2018-07-16T16:42:32-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-peppermint-dead-sea-salt-scrub"/>
+    <title>Taza Peppermint Dead Sea Salt Scrub</title>
+    <s:type>Body Scrubs</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20190104182703_IMG_1148.jpg?v=1578875748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Body Scrubs<br>
+        <strong>Price: </strong>
+            17.99 - 22.49
+            <a href="https://www.tazaskincare.ca/products/taza-peppermint-dead-sea-salt-scrub">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Peppermint Dead Sea Salt Scrub </b> is an awesome mix of salts, oils, and herbs with a light aroma of mint. It is filled with natural healing elements. As a result of the detoxifying and disinfectant properties of dead sea salt, this scrub purifies your skin’s pores by cleansing out dead cells, dirt, pollution, stale sebum, and germs that collect and form acne, blackheads, and white heads. Moreover, the scrub helps in sloughing off flakes and dead cells on your skin’s surface. The following are additional features of this scrub: </p>
+<ul>
+<li>100% Natural • No Parabens • No Phthalates • No Sulphates</li>
+<li>Improves blood circulation, increased blood flow regenerates skin cells and gives a natural glow to the skin</li>
+<li>Contains Dead Sea Salt, Shea Butter, Coconut Oil, and Honey which: detoxifies and regenerates your skin; provides antioxidants; boosts your skin’s collagen production to assist anti-wrinkle processes; reduces appearance of aging and sagging of skin</li>
+<li>The Sea Salt and Shea Butter in the product removes dull layer of skin while replenishing skin moisture; thus, leaving your skin looking fresh, smooth, and healthy looking</li>
+<li>Taza Dead Sea Salt Scrub contains a blend of detoxifying salt and highly moisturizing oils to soften and exfoliate the skin</li>
+</ul>
+<p>If you have chronic dry skin, using this scrub can help improve your skin’s lipid barrier and replenish its natural moisture. Got cystic acne on the body? Start using this scrub. Dead sea salt contains a lot of zinc and sulfur, which have both been known to be a very effective at acne treatment when used topically; so use it as a gentle scrub or soak it in a bath to disinfect and cleanse acne prone skin.</p>
+<p>One surprising benefit of dead sea salt for your skin is its anti-wrinkle benefits: Research shows that the minerals in dead sea salt contribute to a 40% reduction in the depth of wrinkling of your skin. They not only ward off pro-aging free radicals, but also help exfoliate, hydrate, detoxify and soften skin, thereby promoting youthfulness.</p>
+<p>Warm baths with a handful of dead sea salt added can improve eczema by exfoliating the dead cells and flakes, soothing the itch as well as disinfecting eczema patches and relieving the pain. If you want to reduce cellulite, start soaking in dead sea salt baths: Draw a hot bath, add the scrub and soak for 20 minutes. The minerals released from the dead sea salt not only break down the old fat cells that are responsible for the dimpling effect, but also help get rid of toxins by assisting in proper lymph flow. <br><br>Key ingredients: Dead Sea Salt, Coconut Oil, Shea Butter, Grape Seed Oil, Sweet Almond Oil, Glycerin, Vitamin E, essential oils, and Peppermint Leaf. Suitable for all skin types.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Peppermint Dead Sea Salt Scrub" href="https://www.amazon.ca/dp/B00QGCHF68" target="_blank" rel="noopener noreferrer">Taza Peppermint Dead Sea Salt Scrub</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p>Get your Taza Peppermint Dead Sea Salt Scrub.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444043377</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>natpeppermintsaltscrub</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444043377</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.24</s:price>
+      <s:sku>natpeppermintsaltscrub</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444043377</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.12</s:price>
+      <s:sku>natpeppermintsaltscrub</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368444043377</id>
+      <title>7+</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>natpeppermintsaltscrub</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+  </entry>
+</feed>

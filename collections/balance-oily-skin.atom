@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/balance-oily-skin.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2018-07-16T16:40:24-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368437489777</id>
+    <published>2018-07-16T16:40:24-12:00</published>
+    <updated>2018-07-16T16:40:24-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-dead-sea-mud-mask"/>
+    <title>Taza Natural Dead Sea Mud Mask</title>
+    <s:type>Face Treatments</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Dead_Sea_Mud_Mask_-9073.jpg?v=1536355913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Face Treatments<br>
+        <strong>Price: </strong>
+            21.99 - 27.49
+            <a href="https://www.tazaskincare.ca/products/taza-dead-sea-mud-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Dead Sea Mud Mask</b> improves the appearance of your facial skin by promoting elasticity and minimizing pores, wrinkles and lines. When the mud dries on your face, toxins that may be present in your skin cells from your everyday diet and the environment are drawn out. Your face will feel clean and refreshed.</p>
+<p>This mask also improves the texture of your facial skin, purifies the skin by removing dirt, and tightens and tones the skin. Moreover, it replenishes and protects the skin’s moisture barrier. All this will make your facial skin bright and radiant and youthful looking. The following are additional features of this mud mask:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive </span></li>
+<li><span class="a-list-item"> Application of the Dead Sea Mud removes toxins and impurities from your skin, tightens and tones your complexion, and improves blood circulation to aid in cell regeneration </span></li>
+<li><span class="a-list-item"> Contains Shea Butter which assists the anti-aging process by boosting your skin's collagen production and with Vitamin E reduces wrinkles, fine lines, and skin sagging for a younger looking appearance; Shea Butter also forms a protective barrier over your skin to hold in moisture and effectively relieves dry itchy skin. Also contains Glycerin, a humectant, that attracts moisture in the air to your skin </span></li>
+<li><span class="a-list-item"> Contains Grapeseed Oil which helps to eliminate acne in addition to tightening and moisturizing the skin, and minimizing skin aging </span></li>
+<li>
+<span class="a-list-item"> Contains Papaya Extract which has Vitamin A and C. Vitamin A is a natural exfoliant that repairs the skin by increasing rate of new cell formation. Vitamin C </span>is an anti-oxidant with wonderful proteins for smoother softer skin</li>
+</ul>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01N7EDNTX" target="_blank" title="Taza Natural Dead Sea Mud Mask" rel="noopener noreferrer">Taza Natural Dead Sea Mud Mask</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p><span>Get your Taza Natural Dead Sea Mud Mask.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>1+</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.74</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>5+</title>
+      <s:price currency="CAD">23.37</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368434081905</id>
+    <published>2018-07-16T16:39:23-12:00</published>
+    <updated>2018-07-16T16:39:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-dead-sea-mineral-mud-natural-soap"/>
+    <title>Taza Dead Sea Mineral Mud Natural Soap (Pack of 3)</title>
+    <s:type>Soaps</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Dead_Sea_Mud_-9040.jpg?v=1536355712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Soaps<br>
+        <strong>Price: </strong>
+            21.19 - 26.49
+            <a href="https://www.tazaskincare.ca/products/taza-dead-sea-mineral-mud-natural-soap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Dead Sea Mineral Mud Natural Soap </b> provides mild cleansing and keeps your skin soft, radiant, glowing, and healthy. It also regenerates and moisturizes your skin. Amazingly scented with therapeutic Eucalyptus Essential Oil. <span>The following are additional features of this soap:</span> </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 100% Handmade • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive • Palm Fruit Oil and all other ingredients are obtained only from environmentally responsible and sustainable sources </span></li>
+<li><span class="a-list-item"> Application of Dead Sea Mineral Mud removes toxins, impurities, and dirt from your skin for an amazing clean; it also tightens and tones your complexion, and improves blood circulation to aid in cell regeneration </span></li>
+<li><span class="a-list-item"> Contains Coconut Oil, Olive Oil, and Palm Fruit Oil which assists the anti-wrinkle process and prevents wrinkles, skin sagging, and premature aging for a younger looking appearance </span></li>
+<li><span class="a-list-item"> Contains Shea Butter which assists the anti-wrinkle process by boosting your skin's collagen production and reduces wrinkles, fine lines, and skin sagging for a younger looking appearance; Shea Butter also forms a protective barrier over your skin to hold in moisture and effectively relieves dry itchy skin </span></li>
+<li><span class="a-list-item"> Contains Kaolin Clay which detoxifies and cleanses your skin and removes dull skin layers for remarkable skin regeneration </span></li>
+</ul>
+<p>Key ingredients: Dead Sea Mineral Mud, Coconut Oil, Olive Oil, Palm Fruit Oil, Shea Butter, and Kaolin Clay.</p>
+<p>Prefer to shop for this product on Amazon.ca?<span> </span>No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B06WW664M9" target="_blank" title="Taza Dead Sea Mineral Mud Natural Soap (Pack of 3)" rel="noopener noreferrer">Taza Dead Sea Mineral Mud Natural Soap (Pack of 3)</a> to be redirected to this product's detail page on Amazon.com.</p>
+<p>Get your Taza Dead Sea Mineral Mud Natural Soap.</p>
+<p>Get these other excellent Taza Natural Soaps: <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-sandalwood-soap" target="_blank" rel="noopener noreferrer">Sandalwood Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-tea-tree-charcoal-soap" target="_blank" rel="noopener noreferrer">Tea Tree Oil &amp; Activated Charcoal Natural Soap</a>, <a href="https://www.tazaskincare.ca/collections/natural-body-washes/products/taza-oatmeal-milk-honey-soap" target="_blank" rel="noopener noreferrer">Oatmeal Milk &amp; Honey Natural Soap</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.49</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.52</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368434081905</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.19</s:price>
+      <s:sku>1K-0F4N-1LOR</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

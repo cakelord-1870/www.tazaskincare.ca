@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/natural-hair-care.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2020-06-14T07:32:45-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4514509848689</id>
+    <published>2020-06-14T07:32:45-12:00</published>
+    <updated>2020-06-14T07:32:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-rosemary-lavender-shampoo-bar"/>
+    <title>Premium Taza Natural Rosemary Lavender Shampoo Bar  (90 g)</title>
+    <s:type>Shampoos</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200331_094530.jpg?v=1598473836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Shampoos<br>
+        <strong>Price: </strong>
+            19.59 - 24.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-rosemary-lavender-shampoo-bar">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SAFE &amp; ECO-FRIENDLY &amp; VEGAN: Paraben Free, Sulphate Free, PH Balanced; Completely biodegradable and use very little packaging; Zero Waste Bar. Shampoo bars are economic too as each bar keeps on working, lasting so much longer than a bottle of liquid shampoo. Each bar is equivalent to 4-5 bottles of shampoo. Perfect for everyday use and ideal in the washbag for visits to the gym, at the swimming pool or to take on holiday</li>
+<li>NOURISHING AND MOISTURIZING: Contains Coconut Oil, which helps nourish from hair root to tip to bring out your hair's natural strength, elasticity, and shine</li>
+<li>HYDRATING: Contains Hydrolyzed Oat Protein, which helps add and retain moisture to your scalp and adds softness, manageability, and texture to your hair; and will impart a soft, cushiony feeling on you scalp with a velvet like smoothness after drying. This protein also provides better hair conditioning with improved bonding and has been used for strength, for shine, for hydration and to reduce breakage. It also helps to temporarily repair damaged areas on your hair</li>
+<li>CONDITIONING: Contains BTMS 50 which is a vegetable based conditioning emulsifier. It offers excellent detangling and conditions without the build-up often seen with other conditioning agents</li>
+<li>ADDED EXTRAS: Contains DL-Panthenol (Pro-Vitamin B5) which improves damaged hair by improving effects of hair elasticity, moisture retention, and flexibility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509848689</id>
+      <title>1+</title>
+      <s:price currency="CAD">24.49</s:price>
+      <s:sku>natrosebar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509848689</id>
+      <title>2+</title>
+      <s:price currency="CAD">22.04</s:price>
+      <s:sku>natrosebar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509848689</id>
+      <title>5+</title>
+      <s:price currency="CAD">20.82</s:price>
+      <s:sku>natrosebar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509848689</id>
+      <title>7+</title>
+      <s:price currency="CAD">19.59</s:price>
+      <s:sku>natrosebar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4514509521009</id>
+    <published>2020-06-14T07:32:45-12:00</published>
+    <updated>2020-06-14T07:32:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-peppermint-shampoo-bar"/>
+    <title>Premium Taza Natural Peppermint Shampoo Bar  (90 g)</title>
+    <s:type>Shampoos</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200331_094338.jpg?v=1598473661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Shampoos<br>
+        <strong>Price: </strong>
+            19.59 - 24.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-peppermint-shampoo-bar">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SAFE &amp; ECO-FRIENDLY &amp; VEGAN: Paraben Free, Sulphate Free, PH Balanced; Completely biodegradable and use very little packaging; Zero Waste Bar. Shampoo bars are economic too as each bar keeps on working, lasting so much longer than a bottle of liquid shampoo. Each bar is equivalent to 4-5 bottles of shampoo. Perfect for everyday use and ideal in the washbag for visits to the gym, at the swimming pool or to take on holiday</li>
+<li>NOURISHING AND MOISTURIZING: Contains Coconut Oil, which helps nourish from hair root to tip to bring out your hair's natural strength, elasticity, and shine</li>
+<li>HYDRATING: Contains Hydrolyzed Oat Protein, which helps add and retain moisture to your scalp and adds softness, manageability, and texture to your hair; and will impart a soft, cushiony feeling on you scalp with a velvet like smoothness after drying. This protein also provides better hair conditioning with improved bonding and has been used for strength, for shine, for hydration and to reduce breakage. It also helps to temporarily repair damaged areas on your hair</li>
+<li>CONDITIONING: Contains BTMS 50 which is a vegetable based conditioning emulsifier. It offers excellent detangling and conditions without the build-up often seen with other conditioning agents</li>
+<li>ADDED EXTRAS: Contains DL-Panthenol (Pro-Vitamin B5) which improves damaged hair by improving effects of hair elasticity, moisture retention, and flexibility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509521009</id>
+      <title>1+</title>
+      <s:price currency="CAD">24.49</s:price>
+      <s:sku>natpeppshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509521009</id>
+      <title>2+</title>
+      <s:price currency="CAD">22.04</s:price>
+      <s:sku>natpeppshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509521009</id>
+      <title>5+</title>
+      <s:price currency="CAD">20.82</s:price>
+      <s:sku>natpeppshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514509521009</id>
+      <title>7+</title>
+      <s:price currency="CAD">19.59</s:price>
+      <s:sku>natpeppshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4514504212593</id>
+    <published>2020-06-14T07:32:45-12:00</published>
+    <updated>2020-06-14T07:32:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-oats-and-honey-shampoo-bar"/>
+    <title>Premium Taza Natural Oats and Honey Shampoo Bar  (90 g)</title>
+    <s:type>Shampoos</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200331_094414.jpg?v=1598473405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Shampoos<br>
+        <strong>Price: </strong>
+            19.59 - 24.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-oats-and-honey-shampoo-bar">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SAFE &amp; ECO-FRIENDLY &amp; VEGAN: Paraben Free, Sulphate Free, PH Balanced; Completely biodegradable and use very little packaging; Zero Waste Bar. Shampoo bars are economic too as each bar keeps on working, lasting so much longer than a bottle of liquid shampoo. Each bar is equivalent to 4-5 bottles of shampoo. Perfect for everyday use and ideal in the washbag for visits to the gym, at the swimming pool or to take on holiday</li>
+<li>NOURISHING AND MOISTURIZING: Contains Coconut Oil, which helps nourish from hair root to tip to bring out your hair's natural strength, elasticity, and shine</li>
+<li>HYDRATING: Contains Hydrolyzed Oat Protein, which helps add and retain moisture to your scalp and adds softness, manageability, and texture to your hair; and will impart a soft, cushiony feeling on you scalp with a velvet like smoothness after drying. This protein also provides better hair conditioning with improved bonding and has been used for strength, for shine, for hydration and to reduce breakage. It also helps to temporarily repair damaged areas on your hair</li>
+<li>CONDITIONING: Contains BTMS 50 which is a vegetable based conditioning emulsifier. It offers excellent detangling and conditions without the build-up often seen with other conditioning agents</li>
+<li>ADDED EXTRAS: Contains DL-Panthenol (Pro-Vitamin B5) which improves damaged hair by improving effects of hair elasticity, moisture retention, and flexibility. Contains Beer Powder which acts as a cleanser and shining agent, rescuing your hair from dullness and adding lustre. It also makes your hair less frizzy, soft, manageable and promotes hair growth. Contains Rhassoul Clay which improves the hair texture and volume, softens the hair and eliminates dandruff</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514504212593</id>
+      <title>1+</title>
+      <s:price currency="CAD">24.49</s:price>
+      <s:sku>natoatshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514504212593</id>
+      <title>2+</title>
+      <s:price currency="CAD">22.04</s:price>
+      <s:sku>natoatshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514504212593</id>
+      <title>5+</title>
+      <s:price currency="CAD">20.82</s:price>
+      <s:sku>natoatshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514504212593</id>
+      <title>7+</title>
+      <s:price currency="CAD">19.59</s:price>
+      <s:sku>natoatshampbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4514502869105</id>
+    <published>2020-06-14T07:32:45-12:00</published>
+    <updated>2020-06-14T07:32:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-rosemary-lavender-conditioner-bar"/>
+    <title>Premium Taza Natural Rosemary Lavender Conditioner Bar  (90 g)</title>
+    <s:type></s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200326_165938.jpg?v=1598483568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.19 - 26.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-rosemary-lavender-conditioner-bar">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SAFE &amp; ECO-FRIENDLY: Paraben Free, Sulphate Free, PH Balanced; Completely biodegradable and use very little packaging; Zero Waste Bar. Conditioner bars are economic too as each bar keeps on working, lasting so much longer than a bottle of liquid conditioner. Each bar is equivalent to 4-5 bottles of conditioner. Perfect for everyday use and ideal in the washbag for visits to the gym, at the swimming pool or to take on holiday</li>
+<li>NOURISHING AND MOISTURIZING: Contains optimum blend of Jojoba Oil, Cocoa Butter, Argan Oil, Coconut Oil: Jojoba Oil increases hair shine and strengthens hair; Cocoa Butter penetrates your hair shaft helping to prevent water loss and dryness; Argan Oil moisturizes and is extraordinarily high in antioxidant producing cosmetic benefits; Coconut Oil moisturizes scalp which helps nourish your hair root to tip to bring out your hair's natural strength, elasticity, and shine</li>
+<li>HYDRATING: Contains Hydrolyzed Oat Protein and Honeyquat, which adds and retains moisture to your scalp and adds softness, manageability, and texture to your hair; the Hydrolyzed Oat Protein provides better hair conditioning with improved bonding. This protein has been used for strength, for shine, for hydration and to reduce breakage. It also helps to temporarily repair damaged areas on your hair; also contains Glycerin which improves hydration</li>
+<li>CONDITIONING: Contains BTMS 50 which is a vegetable based conditioning emulsifier. It offers excellent detangling and conditions without the build-up often seen with other conditioning agents</li>
+<li>ADDED EXTRAS: Contains DL-Panthenol (Pro-Vitamin B5) which improves damaged hair by improving effects of hair elasticity, moisture retention, and flexibility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514502869105</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.49</s:price>
+      <s:sku>natroseconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514502869105</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>natroseconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514502869105</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.52</s:price>
+      <s:sku>natroseconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514502869105</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.19</s:price>
+      <s:sku>natroseconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4514501230705</id>
+    <published>2020-06-14T07:32:45-12:00</published>
+    <updated>2020-06-14T07:32:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-oats-and-honey-conditioner-bar"/>
+    <title>Premium Taza Natural Oats and Honey Conditioner Bar  (90 g)</title>
+    <s:type></s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200326_170053.jpg?v=1598473220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.19 - 26.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-oats-and-honey-conditioner-bar">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SAFE &amp; ECO-FRIENDLY: Paraben Free, Sulphate Free, PH Balanced; Completely biodegradable and use very little packaging; Zero Waste Bar. Conditioner bars are economic too as each bar keeps on working, lasting so much longer than a bottle of liquid conditioner. Each bar is equivalent to 4-5 bottles of conditioner. Perfect for everyday use and ideal in the washbag for visits to the gym, at the swimming pool or to take on holiday</li>
+<li>NOURISHING AND MOISTURIZING: Contains optimum blend of Jojoba Oil, Cocoa Butter, Argan Oil, Coconut Oil: Jojoba Oil increases hair shine and strengthens hair; Cocoa Butter penetrates your hair shaft helping to prevent water loss and dryness; Argan Oil moisturizes and is extraordinarily high in antioxidant producing cosmetic benefits; Coconut Oil moisturizes scalp which helps nourish your hair root to tip to bring out your hair's natural strength, elasticity, and shine</li>
+<li>HYDRATING: Contains Hydrolyzed Oat Protein and Honeyquat, which adds and retains moisture to your scalp and adds softness, manageability, and texture to your hair; the Hydrolyzed Oat Protein provides better hair conditioning with improved bonding. This protein has been used for strength, for shine, for hydration and to reduce breakage. It also helps to temporarily repair damaged areas on your hair; also contains Glycerin which improves hydration</li>
+<li>CONDITIONING: Contains BTMS 50 which is a vegetable based conditioning emulsifier. It offers excellent detangling and conditions without the build-up often seen with other conditioning agents</li>
+<li>ADDED EXTRAS: Contains DL-Panthenol (Pro-Vitamin B5) which improves damaged hair by improving effects of hair elasticity, moisture retention, and flexibility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514501230705</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.49</s:price>
+      <s:sku>natoatconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514501230705</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>natoatconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514501230705</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.52</s:price>
+      <s:sku>natoatconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4514501230705</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.19</s:price>
+      <s:sku>natoatconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4504503025777</id>
+    <published>2020-06-03T08:34:56-12:00</published>
+    <updated>2020-06-03T08:34:56-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-peppermint-conditioner-bar-90-g-contains-jojoba-argan-coconut-oils-cocoa-butter-hydrolyzed-oat-protein-panthenol"/>
+    <title>Premium Taza Natural Peppermint Conditioner Bar  (90 g)</title>
+    <s:type>Conditioners</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20200326_165952.jpg?v=1598473586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Conditioners<br>
+        <strong>Price: </strong>
+            21.19 - 26.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-peppermint-conditioner-bar-90-g-contains-jojoba-argan-coconut-oils-cocoa-butter-hydrolyzed-oat-protein-panthenol">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SAFE &amp; ECO-FRIENDLY: Paraben Free, Sulphate Free, PH Balanced; Completely biodegradable and use very little packaging; Zero Waste Bar. Conditioner bars are economic too as each bar keeps on working, lasting so much longer than a bottle of liquid conditioner. Each bar is equivalent to 4-5 bottles of conditioner. Perfect for everyday use and ideal in the washbag for visits to the gym, at the swimming pool or to take on holiday</li>
+<li>NOURISHING AND MOISTURIZING: Contains optimum blend of Jojoba Oil, Cocoa Butter, Argan Oil, Coconut Oil: Jojoba Oil increases hair shine and strengthens hair; Cocoa Butter penetrates your hair shaft helping to prevent water loss and dryness; Argan Oil moisturizes and is extraordinarily high in antioxidant producing cosmetic benefits; Coconut Oil moisturizes scalp which helps nourish your hair root to tip to bring out your hair's natural strength, elasticity, and shine</li>
+<li>HYDRATING: Contains Hydrolyzed Oat Protein and Honeyquat, which adds and retains moisture to your scalp and adds softness, manageability, and texture to your hair; the Hydrolyzed Oat Protein provides better hair conditioning with improved bonding. This protein has been used for strength, for shine, for hydration and to reduce breakage. It also helps to temporarily repair damaged areas on your hair; also contains Glycerin which improves hydration</li>
+<li>CONDITIONING: Contains BTMS 50 which is a vegetable based conditioning emulsifier. It offers excellent detangling and conditions without the build-up often seen with other conditioning agents</li>
+<li>ADDED EXTRAS: Contains DL-Panthenol (Pro-Vitamin B5) which improves damaged hair by improving effects of hair elasticity, moisture retention, and flexibility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4504503025777</id>
+      <title>1+</title>
+      <s:price currency="CAD">26.49</s:price>
+      <s:sku>natpeppconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4504503025777</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>natpeppconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4504503025777</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.52</s:price>
+      <s:sku>natpeppconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4504503025777</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.19</s:price>
+      <s:sku>natpeppconbar</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1498490699889</id>
+    <published>2018-09-18T09:29:42-12:00</published>
+    <updated>2018-09-18T09:29:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-moroccan-argan-oil-coconut-conditioner"/>
+    <title>Taza Natural Moroccan Argan Oil Coconut Conditioner</title>
+    <s:type>Conditioners</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170804235530_IMG_0789.jpg?v=1536365895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Conditioners<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-natural-moroccan-argan-oil-coconut-conditioner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Moroccan Argan Oil Coconut Conditioner</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; builds body, reduces porosity, and strengthens your hair; soothes and conditions your scalp and controls/ eliminates dandruff. <span>The following are additional features of this conditioner: </span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free •Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Moroccan Argan Oil (often called liquid gold), which penetrates the hair shaft to improve elasticity, detangles frizzy hair and repairs spit ends </span></li>
+<li><span class="a-list-item"> Contains Broccoli Seed Oil which is rich in hair nourishing vitamins such as Vitamin C and B6, which can keep your hair strong and silky smooth as well as smooth out dry and frizzy hair. </span></li>
+<li><span class="a-list-item"> Contains Panthenol (ProVitamin B5) which helps retain moisture and protect the hair from the elements.</span></li>
+<li><span class="a-list-item"> Contains Ivy and Rosemary Extract, which helps to nourish, sooth and protect the scalp.</span></li>
+</ul>
+<p>Key ingredients: Moroccan Argan Oil, Broccoli Seed Oil, Panthenol (ProVitamin B5), Hydrolyzed Soy Protein, Ivy Extract, &amp; Rosemary Extract</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Moroccan Argan Oil Coconut Conditioner" href="https://www.amazon.ca/dp/B07GL5HT77" target="_blank" rel="noopener noreferrer">Taza Natural Moroccan Argan Oil Coconut Conditioner</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Moroccan Argan Oil Coconut Conditioner!</p>
+<p>Taza Natural Moroccan Argan Oil Conditioner also comes in<u> </u><a title="Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner" href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-natural-moroccan-argan-oil-peppermint-tea-tree-conditioner" target="_blank" rel="noopener noreferrer">Peppermint &amp; Tea Tree</a> and <a title="Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner" href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-natural-moroccan-argan-oil-rosemary-lavender-conditioner" target="_blank" rel="noopener noreferrer">Rosemary Lavender.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498490699889</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>FB-T8F9-1O5A</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498490699889</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>FB-T8F9-1O5A</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498490699889</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>FB-T8F9-1O5A</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498490699889</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>FB-T8F9-1O5A</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1498473037937</id>
+    <published>2018-09-18T09:29:42-12:00</published>
+    <updated>2018-09-18T09:29:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-moroccan-argan-oil-peppermint-tea-tree-conditioner"/>
+    <title>Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner</title>
+    <s:type>Conditioners</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170805000201_IMG_0795.jpg?v=1536365568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Conditioners<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-natural-moroccan-argan-oil-peppermint-tea-tree-conditioner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; builds body, reduces porosity, and strengthens your hair; soothes and conditions your scalp and controls/ eliminates dandruff. <span>The following are additional features of this conditioner: </span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free •Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Moroccan Argan Oil (often called liquid gold), which penetrates the hair shaft to improve elasticity, detangles frizzy hair and repairs spit ends </span></li>
+<li><span class="a-list-item"> Contains Broccoli Seed Oil which is rich in hair nourishing vitamins such as Vitamin C and B6, which can keep your hair strong and silky smooth as well as smooth out dry and frizzy hair. </span></li>
+<li><span class="a-list-item"> Contains Panthenol (ProVitamin B5) which helps retain moisture and protect the hair from the elements.</span></li>
+<li><span class="a-list-item"> Contains Ivy and Rosemary Extract, which helps to nourish, sooth and protect the scalp.</span></li>
+</ul>
+<p>Key ingredients: Moroccan Argan Oil, Broccoli Seed Oil, Panthenol (ProVitamin B5), Hydrolyzed Soy Protein, Ivy Extract, &amp; Rosemary Extract</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner" href="https://www.amazon.ca/dp/B07GLDYHDF" target="_blank" rel="noopener noreferrer">Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner!</p>
+<p>Taza Natural Moroccan Argan Oil Conditioner also comes in <a title="Taza Natural Moroccan Argan Oil Coconut Conditioner" href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-natural-moroccan-argan-oil-coconut-conditioner" target="_blank" rel="noopener noreferrer">Coconut</a> and <a title="Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner" href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-natural-moroccan-argan-oil-rosemary-lavender-conditioner" target="_blank" rel="noopener noreferrer">Rosemary Lavender.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498473037937</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>6B-V5C8-6Y88</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498473037937</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>6B-V5C8-6Y88</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498473037937</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>6B-V5C8-6Y88</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498473037937</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>6B-V5C8-6Y88</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1498294714481</id>
+    <published>2018-09-18T09:29:42-12:00</published>
+    <updated>2018-09-18T09:29:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-moroccan-argan-oil-rosemary-lavender-conditioner"/>
+    <title>Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner</title>
+    <s:type>Conditioners</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170804235946_IMG_0792.jpg?v=1536360450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Conditioners<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-natural-moroccan-argan-oil-rosemary-lavender-conditioner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; builds body, reduces porosity, and strengthens your hair; soothes and conditions your scalp and controls/ eliminates dandruff. <span>The following are additional features of this conditioner: </span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free •Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Moroccan Argan Oil (often called liquid gold), which penetrates the hair shaft to improve elasticity, detangles frizzy hair and repairs spit ends </span></li>
+<li><span class="a-list-item"> Contains Broccoli Seed Oil which is rich in hair nourishing vitamins such as Vitamin C and B6, which can keep your hair strong and silky smooth as well as smooth out dry and frizzy hair. </span></li>
+<li><span class="a-list-item"> Contains Panthenol (ProVitamin B5) which helps retain moisture and protect the hair from the elements.</span></li>
+<li><span class="a-list-item"> Contains Ivy and Rosemary Extract, which helps to nourish, sooth and protect the scalp.</span></li>
+</ul>
+<p>Key ingredients: Moroccan Argan Oil, Broccoli Seed Oil, Panthenol (ProVitamin B5), Hydrolyzed Soy Protein, Ivy Extract, &amp; Rosemary Extract</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner" href="https://www.amazon.ca/dp/B07GL25X3R" target="_blank" rel="noopener noreferrer">Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Moroccan Argan Oil Rosemary Lavender Conditioner!</p>
+<p>Taza Natural Moroccan Argan Oil Conditioner also comes in <a title="Taza Natural Moroccan Argan Oil Coconut Conditioner" href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-natural-moroccan-argan-oil-coconut-conditioner" target="_blank" rel="noopener noreferrer">Coconut</a> and <a title="Taza Natural Moroccan Argan Oil Peppermint &amp; Tea Tree Conditioner" href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-natural-moroccan-argan-oil-peppermint-tea-tree-conditioner" target="_blank" rel="noopener noreferrer">Peppermint &amp; Tea Tree.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498294714481</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>7E-PHTQ-W83W</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498294714481</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>7E-PHTQ-W83W</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498294714481</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>7E-PHTQ-W83W</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1498294714481</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>7E-PHTQ-W83W</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368441946225</id>
+    <published>2018-07-16T16:41:38-12:00</published>
+    <updated>2018-07-16T16:41:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-rosemary-lavender-conditioner"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner</title>
+    <s:type>Conditioners</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170818181455_IMG_0896.jpg?v=1536356436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Conditioners<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-rosemary-lavender-conditioner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; builds body, reduces porosity, and strengthens your hair; soothes and conditions your scalp and controls/ eliminates dandruff. <span>The following are additional features of this conditioner: </span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free •Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Hemp Seed Oil, which has polyunsaturated fatty acids (omega 3, omega 6, and omega 9) and Vitamin E, to provide complete nutrients to maintain your scalp and hair in excellent condition and to stimulate your hair’s growth </span></li>
+<li><span class="a-list-item"> Contains Hydrolyzed Wheat Protein and Vegetable Glycerin which attracts and retains moisture in your hair; the Hydrolyzed Wheat Protein also builds body, reduces porosity, and strengthens and improves manageability, luster, and smoothness of your hair </span></li>
+<li><span class="a-list-item"> Contains Aloe Leaf Juice which also stimulates hair growth, tames unmanageable hair, controls dandruff, and inhibits premature graying; it also contains important nutrients for your hair like: amino acids, proteins, minerals, and vitamins A, C, and E which makes it especially excellent at treating damaged hair </span></li>
+<li><span class="a-list-item"> Contains Chamomile Flower Extract which helps eliminate dandruff and soothes your scalp; this product also contains Coconut Oil which conditions your scalp and reduces protein loss in your hair shaft </span></li>
+</ul>
+<p>Key ingredients: Hemp Seed Oil, Vegetable Glycerin, Coconut Oil, Aloe Leaf Juice, Chamomile Flower Extract, Panthenol (Pro Vitamin B5), Hydrolyzed Wheat Protein, Rosemary Lavender Essential Oil.</p>
+<p>The Taza Omega-3 Hemp &amp; Aloe Conditioner also comes in Peppermint &amp; Tea Tree. <br><br><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01B5HY6SS" target="_blank" title="Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner.</p>
+<p>Get also the <a href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-peppermint-tea-tree-conditioner" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Conditioner</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441946225</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>natomega3hempaloerosemarylavconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441946225</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>natomega3hempaloerosemarylavconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441946225</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>natomega3hempaloerosemarylavconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441946225</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>natomega3hempaloerosemarylavconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368441487473</id>
+    <published>2018-07-16T16:41:31-12:00</published>
+    <updated>2018-07-16T16:41:31-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-rosemary-lavender-shampoo"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Botanical Shampoo</title>
+    <s:type>Shampoos</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/120180915203019_IMG_1128_2.jpgcentered.jpg?v=1595221128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Shampoos<br>
+        <strong>Price: </strong>
+            17.59 - 21.99
+            <a href="https://www.tazaskincare.ca/products/taza-rosemary-lavender-shampoo">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Botanical Shampoo</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; and soothes your scalp and controls/ eliminates dandruff. The following are additional features of this shampoo: </p>
+<ul>
+<li><span class="a-list-item">99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free • Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Aloe Leaf Juice which stimulates your hair’s growth, tames unmanageable hair, controls dandruff, and inhibits premature graying; it also contains important nutrients for your hair like: amino acids, proteins, minerals, and vitamins A, C, and E which are excellent for treating damaged hair </span></li>
+<li><span class="a-list-item"> Contains Hemp Seed Oil, which has polyunsaturated fatty acids (omega 3, omega 6, and omega 9) and Vitamin E, to provide complete nutrients to maintain your scalp and hair in excellent condition and to also stimulate hair growth </span></li>
+<li><span class="a-list-item"> Contains Vegetable Glycerin and Panthenol (Pro Vitamin B5) which attracts and retains moisture in your hair and protects your hair from the elements </span></li>
+<li><span class="a-list-item"> Contains White Willow Bark, Chamomile Flower Extract, Red Clover Flower Extract, Elder Flower Extract which naturally sooths and exfoliates your scalp to unclog pores to help with dandruff; these ingredients also strengthens and adds volume to your hair and keeps your hair manageable and detangled for a smooth silky feel</span></li>
+</ul>
+<p>Key ingredients: Aloe Leaf Juice, Hemp Seed Oil, Vegetable Glycerin, Panthenol (Pro Vitamin B5), White Willow Bark Extract, Chamomile Flower Extract, Red Clover Flower Extract, Elder Flower Extract, Rosemary Lavender Essential Oil.</p>
+<p>The Omega-3 Hemp &amp; Aloe Botanical Shampoo also comes in Peppermint &amp; Tea Tree.</p>
+<p><span>Prefer to shop for this product on Amazon.com? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01B2ILX22" title="Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Botanical Shampoo" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender<b> </b>Botanical Shampoo</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe <span>Rosemary Lavender</span><b> </b>Botanical Shampoo.</p>
+<p>Get also the <a href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-peppermint-tea-tree-shampoo" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe <span>Peppermint &amp; Tea Tree</span><b> </b>Botanical Shampoo</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441487473</id>
+      <title>1+</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>natomega3hempaloerosemarylavendershampoo</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441487473</id>
+      <title>2+</title>
+      <s:price currency="CAD">19.79</s:price>
+      <s:sku>natomega3hempaloerosemarylavendershampoo</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441487473</id>
+      <title>5+</title>
+      <s:price currency="CAD">18.69</s:price>
+      <s:sku>natomega3hempaloerosemarylavendershampoo</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441487473</id>
+      <title>7+</title>
+      <s:price currency="CAD">17.59</s:price>
+      <s:sku>natomega3hempaloerosemarylavendershampoo</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368441028721</id>
+    <published>2018-07-16T16:41:25-12:00</published>
+    <updated>2018-07-16T16:41:25-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-peppermint-tea-tree-shampoo"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Shampoo</title>
+    <s:type>Shampoos</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20180915202816_IMG_1124_2.jpg?v=1595970874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Shampoos<br>
+        <strong>Price: </strong>
+            17.59 - 21.99
+            <a href="https://www.tazaskincare.ca/products/taza-peppermint-tea-tree-shampoo">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Botanical Shampoo</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; and soothes your scalp and controls/ eliminates dandruff. The following are additional features of this shampoo: </p>
+<ul>
+<li><span class="a-list-item">99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free • Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Aloe Leaf Juice which stimulates your hair’s growth, tames unmanageable hair, controls dandruff, and inhibits premature graying; it also contains important nutrients for your hair like: amino acids, proteins, minerals, and vitamins A, C, and E which are excellent for treating damaged hair </span></li>
+<li><span class="a-list-item"> Contains Hemp Seed Oil, which has polyunsaturated fatty acids (omega 3, omega 6, and omega 9) and Vitamin E, to provide complete nutrients to maintain your scalp and hair in excellent condition and to also stimulate hair growth </span></li>
+<li><span class="a-list-item"> Contains Vegetable Glycerin and Panthenol (Pro Vitamin B5) which attracts and retains moisture in your hair and protects your hair from the elements </span></li>
+<li><span class="a-list-item"> Contains White Willow Bark, Chamomile Flower Extract, Red Clover Flower Extract, Elder Flower Extract which naturally sooths and exfoliates your scalp to unclog pores to help with dandruff; these ingredients also strengthens and adds volume to your hair and keeps your hair manageable and detangled for a smooth silky feel</span></li>
+</ul>
+<p>Key ingredients: Aloe Leaf Juice, Hemp Seed Oil, Vegetable Glycerin, Panthenol (Pro Vitamin B5), White Willow Bark Extract, Chamomile Flower Extract, Red Clover Flower Extract, Elder Flower Extract, Peppermint Essential Oil, Tea Tree Essential Oil.</p>
+<p>The Omega-3 Hemp &amp; Aloe Botanical Shampoo also comes in Rosemary Lavender.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01B2GZIQG" title="Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Botanical Shampoo" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree<b> </b>Botanical Shampoo</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree<b> </b>Botanical Shampoo.</p>
+<p>Get also the <a href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-rosemary-lavender-shampoo" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender<b> </b>Botanical Shampoo</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441028721</id>
+      <title>1+</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>natomega3hempaloepepperteatreeshampoo2</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441028721</id>
+      <title>2+</title>
+      <s:price currency="CAD">19.79</s:price>
+      <s:sku>natomega3hempaloepepperteatreeshampoo2</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441028721</id>
+      <title>5+</title>
+      <s:price currency="CAD">18.69</s:price>
+      <s:sku>natomega3hempaloepepperteatreeshampoo2</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368441028721</id>
+      <title>7+</title>
+      <s:price currency="CAD">17.59</s:price>
+      <s:sku>natomega3hempaloepepperteatreeshampoo2</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368440569969</id>
+    <published>2018-07-16T16:41:17-12:00</published>
+    <updated>2018-07-16T16:41:17-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-peppermint-tea-tree-conditioner"/>
+    <title>Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Conditioner</title>
+    <s:type>Conditioners</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20190605054925_IMG_1250.jpg?v=1619666734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Conditioners<br>
+        <strong>Price: </strong>
+            18.39 - 22.99
+            <a href="https://www.tazaskincare.ca/products/taza-peppermint-tea-tree-conditioner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Conditioner</b> effectively: stimulates your hair’s growth, strengthens and adds volume to your hair, and provides complete nutrients to maintain your scalp and hair in excellent condition; keeps your hair manageable and detangled for a smooth silky feel; inhibits premature graying; attracts and retains moisture in your hair, protects your hair from the elements, and treats damaged hair; builds body, reduces porosity, and strengthens your hair; soothes and conditions your scalp and controls/ eliminates dandruff. <span>The following are additional features of this conditioner: </span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Sulphates • Ammonium Lauryl Sulfate, Sodium Lauryl Sulfate (SLS), and Sodium Laureth Sulfate (SLES) Free • Silicone Free •Suitable for all hair types </span></li>
+<li><span class="a-list-item"> Contains Hemp Seed Oil, which has polyunsaturated fatty acids (omega 3, omega 6, and omega 9) and Vitamin E, to provide complete nutrients to maintain your scalp and hair in excellent condition and to stimulate your hair’s growth </span></li>
+<li><span class="a-list-item"> Contains Hydrolyzed Wheat Protein and Vegetable Glycerin which attracts and retains moisture in your hair; the Hydrolyzed Wheat Protein also builds body, reduces porosity, and strengthens and improves manageability, luster, and smoothness of your hair </span></li>
+<li><span class="a-list-item"> Contains Aloe Leaf Juice which also stimulates hair growth, tames unmanageable hair, controls dandruff, and inhibits premature graying; it also contains important nutrients for your hair like: amino acids, proteins, minerals, and vitamins A, C, and E which makes it especially excellent at treating damaged hair </span></li>
+<li><span class="a-list-item"> Contains Chamomile Flower Extract which helps eliminate dandruff and soothes your scalp; this product also contains Coconut Oil which conditions your scalp and reduces protein loss in your hair shaft </span></li>
+</ul>
+<p>Key ingredients: Hemp Seed Oil, Vegetable Glycerin, Coconut Oil, Aloe Leaf Juice, Chamomile Flower Extract, Panthenol (Pro Vitamin B5), Hydrolyzed Wheat Protein, Peppermint Essential Oil, Tea Tree Essential Oil.</p>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01B5HPKGK" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Conditioner</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p>Get your Taza Natural Omega-3 Hemp &amp; Aloe Peppermint &amp; Tea Tree Conditioner.</p>
+<p>Get also the <span><a href="https://www.tazaskincare.ca/collections/natural-hair-care/products/taza-rosemary-lavender-conditioner" title="Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner" target="_blank" rel="noopener noreferrer">Taza Natural Omega-3 Hemp &amp; Aloe Rosemary Lavender Conditioner</a></span>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440569969</id>
+      <title>1+</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>natomega3hempaloepepperteatconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440569969</id>
+      <title>2+</title>
+      <s:price currency="CAD">20.69</s:price>
+      <s:sku>natomega3hempaloepepperteatconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440569969</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.54</s:price>
+      <s:sku>natomega3hempaloepepperteatconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368440569969</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.39</s:price>
+      <s:sku>natomega3hempaloepepperteatconditioner2</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+  </entry>
+</feed>

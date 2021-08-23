@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tazaskincare.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tazaskincare.ca/collections/natural-face-care.atom"/>
+  <title>Priya Spa Inc. (CAN)</title>
+  <updated>2020-06-01T08:37:30-12:00</updated>
+  <author>
+    <name>Priya Spa Inc. (CAN)</name>
+  </author>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4502631219313</id>
+    <published>2020-06-01T08:37:30-12:00</published>
+    <updated>2020-06-01T08:37:30-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/roll-over-image-to-zoom-in-premium-taza-natural-sandalwood-shaving-cream-8-oz-contains-jojoba-oil-glycerin"/>
+    <title>Premium Taza Natural Sandalwood Shaving Cream (8 oz), Contains Jojoba Oil, Glycerin</title>
+    <s:type></s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20190223220818_IMG_1189.jpg?v=1612215631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.79 - 23.49
+            <a href="https://www.tazaskincare.ca/products/roll-over-image-to-zoom-in-premium-taza-natural-sandalwood-shaving-cream-8-oz-contains-jojoba-oil-glycerin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SMOOTH RICH LATHER - Get the perfect lather every time, with or without a shaving brush</li>
+<li>INFUSED WITH JOJOBA OIL - Helps sooth sensitive skin and keeps your skin moisturized; also softens skin, moisturizes/hydrates/lubricates, promotes elasticity, and rich in antioxidant which promotes a glowing complexion</li>
+<li>LESS IRRITATION - Our smoothest blended shaving cream giving you more glide and less razor burn redness, irritation, and bumps; contains Glycerin which improves hydration</li>
+<li>SANDALWOOD SCENT - Our sandalwood scented shaving cream leaves you feeling fresh</li>
+<li>MADE IN SMALL BATCHES - You get our freshest shaving cream with the freshest ingredients</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502631219313</id>
+      <title>1+</title>
+      <s:price currency="CAD">23.49</s:price>
+      <s:sku>natsandalwoodshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502631219313</id>
+      <title>2+</title>
+      <s:price currency="CAD">21.14</s:price>
+      <s:sku>natsandalwoodshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502631219313</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.97</s:price>
+      <s:sku>natsandalwoodshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502631219313</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.79</s:price>
+      <s:sku>natsandalwoodshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/4502415212657</id>
+    <published>2020-06-01T08:15:54-12:00</published>
+    <updated>2020-06-01T08:15:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/premium-taza-natural-ocean-shaving-cream-8-oz-contains-jojoba-oil-glycerin"/>
+    <title>Premium Taza Natural Ocean Shaving Cream (8 oz), Contains Jojoba Oil, Glycerin</title>
+    <s:type></s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20190223220707_IMG_1186.jpg?v=1610399148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.79 - 23.49
+            <a href="https://www.tazaskincare.ca/products/premium-taza-natural-ocean-shaving-cream-8-oz-contains-jojoba-oil-glycerin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SMOOTH RICH LATHER - Get the perfect lather every time, with or without a shaving brush</li>
+<li>INFUSED WITH JOJOBA OIL - Helps sooth sensitive skin and keeps your skin moisturized; also softens skin, moisturizes/hydrates/lubricates, promotes elasticity, and rich in antioxidant which promotes a glowing complexion</li>
+<li>LESS IRRITATION - Our smoothest blended shaving cream giving you more glide and less razor burn redness, irritation, and bumps; contains Glycerin which improves hydration</li>
+<li>OCEAN SCENT - Our ocean scented shaving cream leaves you feeling fresh</li>
+<li>MADE IN SMALL BATCHES - You get our freshest shaving cream with the freshest ingredients</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502415212657</id>
+      <title>1+</title>
+      <s:price currency="CAD">23.49</s:price>
+      <s:sku>natoceanshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502415212657</id>
+      <title>2+</title>
+      <s:price currency="CAD">21.14</s:price>
+      <s:sku>natoceanshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502415212657</id>
+      <title>5+</title>
+      <s:price currency="CAD">19.97</s:price>
+      <s:sku>natoceanshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/4502415212657</id>
+      <title>7+</title>
+      <s:price currency="CAD">18.79</s:price>
+      <s:sku>natoceanshave</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/2615937466481</id>
+    <published>2019-05-19T06:59:36-12:00</published>
+    <updated>2019-05-19T06:59:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-eye-neck-cream"/>
+    <title>Taza Natural Eye &amp; Neck Cream</title>
+    <s:type>Face Treatments</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/20170723232149_IMG_0754.jpg?v=1558294128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Face Treatments<br>
+        <strong>Price: </strong>
+            20.79 - 25.99
+            <a href="https://www.tazaskincare.ca/products/taza-natural-eye-neck-cream">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Eye &amp; Neck Cream</b> Contains: Powerful anti aging peptides: Haloxyl, Matrixyl 3000. Our Eye Cream is made from some of the most natural and mild ingredients. It has a lavishly rich &amp; creamy texture and has been specifically formulated to be light and absorb fast.</p>
+<ul>
+<li>99% Natural • Unscented • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li>Contains Haloxyl which reduces dark circles under the eyes by flushing pigmented blood which appears as dark circles under the eyes</li>
+<li>Contains Matrixyl 3000 known for the anti-aging peptides that assist in creating new collagen</li>
+<li>Contains Calendula Extract which helps to soothe the delicate under the eye skin and helps to reduce the look of puffiness and dark circles</li>
+<li>Contains Wheat Germ Oil which is rich in natural Vitamins A, B, D, and E. The rich vitamin E content in this oil helps eliminate the signs of aging, including wrinkles and skin sagging, by strengthening the skin’s connective tissues</li>
+</ul>
+<p>We also suggest you boost the effects of this Taza Eye &amp; Neck Cream by incorporating the Taza Natural Tri-Peptide Serum into your skincare regime to combine 3 powerful extracts: Guarana, Matrixyl 3000, and Haloxyl to combat dark circles, under eye bags, and puffiness.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Eye &amp; Neck Cream" href="https://www.amazon.ca/dp/B07L21DGYB?ref=myi_title_dp" target="_blank" rel="noopener noreferrer">Taza Natural Eye &amp; Neck Cream</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>This cream is a must have for your Taza skincare collection. Get your Taza Natural Eye &amp; Neck Cream.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615937466481</id>
+      <title>1+</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>eyeandneckcream</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615937466481</id>
+      <title>2+</title>
+      <s:price currency="CAD">23.39</s:price>
+      <s:sku>eyeandneckcream</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615937466481</id>
+      <title>5+</title>
+      <s:price currency="CAD">22.09</s:price>
+      <s:sku>eyeandneckcream</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2615937466481</id>
+      <title>7+</title>
+      <s:price currency="CAD">20.79</s:price>
+      <s:sku>eyeandneckcream</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/2535812530289</id>
+    <published>2019-04-27T07:20:45-12:00</published>
+    <updated>2019-04-27T07:20:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-tri-peptide-serum"/>
+    <title>Taza Natural Tri-Peptide Serum</title>
+    <s:type>Face Treatments</s:type>
+    <s:vendor>Priya Spa Inc. (CAN)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Finished_Peptide_Serum_Main_Image-_Finished-amazon_upload.jpg_edit_to_center_image_on_website_.jpg8th.jpg?v=1560042199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc. (CAN)<br>
+        <strong>Type: </strong>Face Treatments<br>
+        <strong>Price: </strong>
+            21.99 - 27.49
+            <a href="https://www.tazaskincare.ca/products/taza-natural-tri-peptide-serum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Tri-Peptide Serum</b> includes a phytosteroid complex of Wild Yam and Soya for even more firming and wrinkle reduction. This serum also contains Guarana, a plant from Brazil, that contains xanthine alkaloids (theophylline, caffeine, theobromine), recognized to tone, stimulate blood vessels and eliminate excess fatty tissue, making this serum especially good for under the eyes and for the neck as well.</p>
+<ul>
+<li>98% Natural • No Parabens • No Phthalates • No Sulphates • Suitable for all skin types including the most sensitive</li>
+<li>Contains Guaraná (a shrub native to the Brazilian Amazon) whcih helps reduce puffiness around the eyes and excess fat under the chin and neck areas</li>
+<li>Contains Wild Yams which acts as a natural peptide. It is also a powerful anti-inflammatory that helps speed tissue regeneration resulting in normalization of damaged skin</li>
+<li>Contains Acqua Biomin, which are ocean minerals containing high concentrations of selenium, magnesium, copper, zinc, calcium, and germanium. These ocean minerals are also found in the skin and over time are depleated through daily environmental exposure. Through application of this ingredient these necessary minerals are replaced in the skin</li>
+<li>Contains Soy Extract which includes soy isoflavones that are the most potent of the antioxidant phytoestrogens; this extract supports elasticity and firmness in the skin, helping keep skin soft and flexible as is needed when rebuilding damaged collagen</li>
+</ul>
+<p>We suggest that you use the Taza Natural Seaplex Anti-Aging Facial Cream over this serum to enhance the anti-aging and firming effects on your skin. Also adding Taza Natural Eye &amp; Neck Cream with these products will enhance the anti aging effects around the eyes, as it combines extracts like Haloxyl, Matrixyl 3000 and Guarana to combat dark circles, under eye bags, and puffiness.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. <a title="Premium Taza Natural Tri-Peptide Serum" href="https://www.amazon.ca/gp/product/B07H4VG47V" target="_blank" rel="noopener noreferrer">Taza Natural Tri-Peptide Serum</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Tri-Peptide Serum. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2535812530289</id>
+      <title>1+</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>tripeptideserum</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2535812530289</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.74</s:price>
+      <s:sku>tripeptideserum</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2535812530289</id>
+      <title>5+</title>
+      <s:price currency="CAD">23.37</s:price>
+      <s:sku>tripeptideserum</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/2535812530289</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>tripeptideserum</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368443682929</id>
+    <published>2018-07-16T16:42:12-12:00</published>
+    <updated>2018-07-16T16:42:12-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-vitamin-c-serum"/>
+    <title>Taza Natural Vitamin C Anti-Aging Serum</title>
+    <s:type>Face Treatments</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Vitamin_C_Anti_Wrinkle_Serum_lead_picture_March_20_2019.jpg?v=1553095437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Face Treatments<br>
+        <strong>Price: </strong>
+            14.39 - 17.99
+            <a href="https://www.tazaskincare.ca/products/taza-vitamin-c-serum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Vitamin C Anti-Aging Serum</b> is a 100% natural multifunctional serum which performs as an exfoliant, anti-oxidant, and skin agent with anti-aging properties. This is an intensive Vitamin C facial product that helps to moisturize and diminish the appearance of fine lines and wrinkles. This product contains: Ethyl Ascorbic Acid (Vitamin C), Niacinamide (Vitamin B3), Hyaluronic Acid (HA), Fruit Acids (Alpha Hydroxy Acid). The following are benefits of these ingredients:</p>
+<ul>
+<li>The Ethyl Ascorbic Acid (Vitamin C): Is an effective and stable skin brightening agent • Balances skin tone • Prevents photo-aging and reduces dark/age spots and skin blotches • Increases collagen synthesis to smooth the appearance of fine lines and wrinkles • Has excellent anti-oxidation properties.</li>
+<li>The Niacinamide (Vitamin B3): Improves skin's elasticity with anti-wrinkle properties • Enhances barrier function preventing skin from losing water content • Helps discoloration and uneven skin tone • Stimulates microcirculation in the dermis.</li>
+<li>The Hyaluronic Acid (HA) , naturally found in the body, secures moisture and creates fullness— youthful skin by improving its moisture content. As the skin ages, HA decreases. Hyaluronic Acid: Has a slight plumping effect to even wrinkles • Is a necessary element for maintaining youthful skin • improves collagen production • Brightens skin tone, reducing dullness.</li>
+<li>The Fruit Acids are derived from grapes, apples, lemons, oranges and sugar cane. These acids act as a natural Alpha Hydroxy Acid. It helps: to stimulate both elastin and collagen production • to improve appearance of photo damaged skin • performs as a mild exfoliant and peel (unlike glycolic or salicylic acid) • good for sensitive skin.</li>
+</ul>
+<p>This Vitamin C serum has no parabens, no phthalates and no sulphates. Additionally, this product is suitable for all skin types including the most sensitive.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01NBGSIWW" target="_blank" title="Taza Natural Vitamin C Anti-Aging Serum" rel="noopener noreferrer">Taza Natural Vitamin C Anti-Aging Serum</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Vitamin C Anti-Aging Serum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443682929</id>
+      <title>1+</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>vitaminCserum</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443682929</id>
+      <title>2+</title>
+      <s:price currency="CAD">16.19</s:price>
+      <s:sku>vitaminCserum</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443682929</id>
+      <title>5+</title>
+      <s:price currency="CAD">15.29</s:price>
+      <s:sku>vitaminCserum</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368443682929</id>
+      <title>7+</title>
+      <s:price currency="CAD">14.39</s:price>
+      <s:sku>vitaminCserum</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368442437745</id>
+    <published>2018-07-16T16:41:46-12:00</published>
+    <updated>2018-07-16T16:41:46-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-seaplex-anti-aging-facial-cream"/>
+    <title>Taza Natural Seaplex Anti-Aging Facial Cream</title>
+    <s:type>Day Creams</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Seaplex_Anti_Wrinkle_Cream_-9098.jpg?v=1536356468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Day Creams<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-seaplex-anti-aging-facial-cream">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><strong>Taza Natural Seaplex Anti-Aging Cream</strong> contains: Jojoba Oil, Avocado Oil, Grapeseed Oil, Shea Butter, Vitamin E, Grapeseed Extract, Wild Mushroom Extract, Japanese Green Tea Extract, and Cucumber Extract. The following are benefits of these ingredients:</p>
+<div></div>
+<div></div>
+<div>
+<ul>
+<li>The Jojoba Oil, Avocado Oil, and Grapeseed Extract softens, moisturizes, hydrates, lubricates, and promotes skin elasticity. The Avocado Oil is packed full of vitamins A, B, D, E, protein, amino acids, all of which benefits our skin's health; this ingredient is also known as a super food for the skin.</li>
+<li>The Grapeseed Oil helps to eliminate acne, tighten skin, moisturize, and minimize aging. The Shea Butter moisturizes, reduces inflammation, boosts collagen for anti-aging, promotes elasticity, and replenishes and protects the skin's moisture barrier.</li>
+<li>The Vitamin E helps skin look younger by reducing the appearance of fine lines and wrinkles.</li>
+<li>The Grapeseed Extract is rich in flavonoids and phytochemicals, which have antioxidant properties like Vitamin C and Vitamin E. These antioxidants are believed to prevent and control numerous ailments by safeguarding skin cells against the ravages of unstable oxygen molecules called free radicals, which are known to damage the skin.</li>
+<li>The Wild Mushroom Extract tightens and tones the skin.</li>
+<li>The Japanese Green Tea Extract has a strong antioxidant effect, which also protects the skin from the damaging effect of free radicals. Green tea extract also contains methylxanthines that stimulates skin microcirculation and therefore positively influence the tone and health of the skin; this ingredient also reduces puffiness and dark circles around the eyes, slows and visibly reverses the look and signs of aging, and protects the skin against the abuse of the elements. </li>
+<li>The Cucumber Extract contains various minerals including magnesium, potassium, and silica. Silica can help reduce the appearance of fine lines and wrinkles and minimize the appearance of pores. </li>
+</ul>
+</div>
+<div></div>
+<div></div>
+<p>This anti-aging cream is 99% natural; moreover, it has no parabens, no phthalates, and no sulphates. Additionally, this product is suitable for all skin types including the most sensitive.</p>
+<p>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a title="Taza Natural Seaplex Anti-Aging Cream" href="https://www.amazon.ca/dp/B01MTV7MW7" target="_blank" rel="noopener noreferrer">Taza Natural Seaplex Anti-Aging Cream</a> to be redirected to this product's detail page on Amazon.ca.</p>
+<p>Get your Taza Natural Seaplex Anti-Aging Cream.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442437745</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>seaplexantiagingcream</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442437745</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>seaplexantiagingcream</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442437745</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>seaplexantiagingcream</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368442437745</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>seaplexantiagingcream</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368438046833</id>
+    <published>2018-07-16T16:40:35-12:00</published>
+    <updated>2018-07-16T16:40:35-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-microdermabrasion-scrub"/>
+    <title>Taza Natural Microdermabrasion Scrub</title>
+    <s:type>Scrubs</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Microdermabrasion_Scrub_-9089.jpg?v=1536356041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Scrubs<br>
+        <strong>Price: </strong>
+            15.59 - 19.49
+            <a href="https://www.tazaskincare.ca/products/taza-microdermabrasion-scrub">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Microdermabrasion Scrub</b> is used to eliminate the top layer of the epidermus, bringing newer skin to the surface. This scrub removes the old layer of skin through microdermabrasion, to reduce imperfections and fine lines; thus, brightening your complexion and improving your overall skin health. This scrub contains: Shea Butter, Coconut Oil, Grapeseed Oil, Almond Oil, and Cocoa Butter. The following are benefits of this ingredient: </p>
+<ul>
+<li>The Shea Butter moisturizes and reduces inflammation, and boosts collagen production. It also promotes skin elasticity and replenishes and protects the skin's moisture barrier.</li>
+<li>The Coconut Oil delays the appearance of wrinkles and sagging of skin, which normally accompanies aging. Coconut oil also helps in treating various skin problems including psoriasis and dermatitis; and it helps in preventing premature aging and degenerative diseases due to its well-known antioxidant properties.</li>
+<li>The Grapeseed Oil helps eliminate acne, helps tightens and moisturizes the skin, and minimizes skin aging.</li>
+<li>The Almond Oil provides great moisture and keeps the skin soft and smooth throughout the day. It also helps prevents fine lines and wrinkles.</li>
+<li>The Cocoa Butter improves skins elasticity and tone.</li>
+</ul>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01NCJTDXO" target="_blank" title="Taza Natural Microdermabrasion Scrub" rel="noopener noreferrer">Taza Natural Microdermabrasion Scrub</a> to be redirected to this product's detail page on Amazon.ca. </span></p>
+<p><span>Get your Taza Natural Microdermabrasion Scrub.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438046833</id>
+      <title>1+</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku>G6-88YC-R4EF</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438046833</id>
+      <title>2+</title>
+      <s:price currency="CAD">17.54</s:price>
+      <s:sku>G6-88YC-R4EF</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438046833</id>
+      <title>5+</title>
+      <s:price currency="CAD">16.57</s:price>
+      <s:sku>G6-88YC-R4EF</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368438046833</id>
+      <title>7+</title>
+      <s:price currency="CAD">15.59</s:price>
+      <s:sku>G6-88YC-R4EF</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368437489777</id>
+    <published>2018-07-16T16:40:24-12:00</published>
+    <updated>2018-07-16T16:40:24-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-dead-sea-mud-mask"/>
+    <title>Taza Natural Dead Sea Mud Mask</title>
+    <s:type>Face Treatments</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Dead_Sea_Mud_Mask_-9073.jpg?v=1536355913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Face Treatments<br>
+        <strong>Price: </strong>
+            21.99 - 27.49
+            <a href="https://www.tazaskincare.ca/products/taza-dead-sea-mud-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Dead Sea Mud Mask</b> improves the appearance of your facial skin by promoting elasticity and minimizing pores, wrinkles and lines. When the mud dries on your face, toxins that may be present in your skin cells from your everyday diet and the environment are drawn out. Your face will feel clean and refreshed.</p>
+<p>This mask also improves the texture of your facial skin, purifies the skin by removing dirt, and tightens and tones the skin. Moreover, it replenishes and protects the skin’s moisture barrier. All this will make your facial skin bright and radiant and youthful looking. The following are additional features of this mud mask:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> 99% Natural • No Parabens • No Phthalates • No Gluten • No Sulphates • Suitable for all skin types including the most sensitive </span></li>
+<li><span class="a-list-item"> Application of the Dead Sea Mud removes toxins and impurities from your skin, tightens and tones your complexion, and improves blood circulation to aid in cell regeneration </span></li>
+<li><span class="a-list-item"> Contains Shea Butter which assists the anti-aging process by boosting your skin's collagen production and with Vitamin E reduces wrinkles, fine lines, and skin sagging for a younger looking appearance; Shea Butter also forms a protective barrier over your skin to hold in moisture and effectively relieves dry itchy skin. Also contains Glycerin, a humectant, that attracts moisture in the air to your skin </span></li>
+<li><span class="a-list-item"> Contains Grapeseed Oil which helps to eliminate acne in addition to tightening and moisturizing the skin, and minimizing skin aging </span></li>
+<li>
+<span class="a-list-item"> Contains Papaya Extract which has Vitamin A and C. Vitamin A is a natural exfoliant that repairs the skin by increasing rate of new cell formation. Vitamin C </span>is an anti-oxidant with wonderful proteins for smoother softer skin</li>
+</ul>
+<p><span>Prefer to shop for this product on Amazon.ca? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01N7EDNTX" target="_blank" title="Taza Natural Dead Sea Mud Mask" rel="noopener noreferrer">Taza Natural Dead Sea Mud Mask</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p><span>Get your Taza Natural Dead Sea Mud Mask.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>1+</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>2+</title>
+      <s:price currency="CAD">24.74</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>5+</title>
+      <s:price currency="CAD">23.37</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368437489777</id>
+      <title>7+</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>deadseasaltmudmask</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368435916913</id>
+    <published>2018-07-16T16:39:50-12:00</published>
+    <updated>2018-07-16T16:39:50-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-botanical-extract-firming-facial-toner"/>
+    <title>Taza Natural Botanical Extract Firming Facial Toner</title>
+    <s:type>Toners &amp; Astringents</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Botanical_Extract_Firming_Facial_Toner_lead_picture.jpg?v=1536355831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Toners &amp; Astringents<br>
+        <strong>Price: </strong>
+            16.79 - 20.99
+            <a href="https://www.tazaskincare.ca/products/taza-botanical-extract-firming-facial-toner">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Botanical Extract Firming Facial Toner</b> has moisturizing properties which help keep the skin hydrated. With an infusion of botanical extracts this toner nourishes and energizes the skin. These extracts help skin appear firmer and pores look tighter and more refined.</p>
+<p>This toner.contains: Tamarind Seed Extract, Chamomile Extract, Aloe Leaf Juice, Cucumber Extract, and Japanese Green Tea Extract. It  The following are benefits of these ingredients:</p>
+<ul>
+<li>The Chamomile Extract eases the itching of eczema and other rashes and reduces skin inflammation, is also speeds healing and prevents bacterial infection.</li>
+<li>The Cucumber Extract contains various minerals including magnesium, potassium, and silica. Silica can help reduce the appearance of fine lines and wrinkles. It also helps minimize the appearance of pores.</li>
+<li>The Aloe Leaf Juice Extract moisturizes the skin and reduces flaking and restores suppleness to enhance the appearance of dry or damaged skin. This extract removes wrinkles and gives the skin a healthier and younger looking appearance. It is a large resource of Vitamin E which reduces the damage to the skin caused by continuous itching. Sun burns can also be treated by using skin care products made of pure Aloe Vera Juice Extract. This ingredient is also used for treating acne problems, dryness of the skin, and any other type of skin problem.</li>
+<li>The Japanese Green Tea Extract has a strong antioxidant effect, which also protects the skin from the damaging effect of free radicals. This extract also contains methylxanthines that stimulates skin microcirculation and therefore positively influence the tone and health of the skin; this ingredient also reduces puffiness and dark circles around the eyes, slows and visibly reverses the look and signs of aging, and protects the skin against the abuse of the elements.</li>
+</ul>
+<p>This toner has no parabens, no phthalates and no sulphates. Additionally, this product is suitable for all skin types including the most sensitive.</p>
+<p>Prefer to shop for this product on Amazon.ca?<span> </span>No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01NAFP5ZN" target="_blank" rel="noopener noreferrer" title="Taza Natural Botanical Extract Firming Facial Toner">Taza Natural Botanical Extract Firming Facial Toner</a> to be redirected to this product's detail page on Amazon.com.</p>
+<p>Get your Taza Natural Botanical Extract Firming Facial Toner.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>1+</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>2+</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>5+</title>
+      <s:price currency="CAD">17.84</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435916913</id>
+      <title>7+</title>
+      <s:price currency="CAD">16.79</s:price>
+      <s:sku>botanicalextractfacialtoner</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tazaskincare.ca/products/1368435097713</id>
+    <published>2018-07-16T16:39:34-12:00</published>
+    <updated>2018-07-16T16:39:34-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tazaskincare.ca/products/taza-natural-botanical-extract-facial-cleanser"/>
+    <title>Taza Natural Botanical Extract Facial Cleanser</title>
+    <s:type>Cleanser</s:type>
+    <s:vendor>Priya Spa Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2277/9041/products/Botanical_Extract_Facial_Cleanser_lead_picture.jpg?v=1536355740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Priya Spa Inc.<br>
+        <strong>Type: </strong>Cleanser<br>
+        <strong>Price: </strong>
+            17.19 - 21.49
+            <a href="https://www.tazaskincare.ca/products/taza-natural-botanical-extract-facial-cleanser">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="font-size: small;" size="6">*Free Standard Shipping</span></em>; <em><span style="font-size: small;" size="6">*Orders from this site Fulfillment by Amazon.ca;</span></em> <em><span style="font-size: small;" size="6">*Secure &amp; Protected Cardholder Data Processing with Shopify Payments</span></em></p>
+<p><b>Taza Natural Botanical Extract Facial Cleanser</b> is a mild botanical-based cleanser that is formulated to thoroughly cleanse the skin without stripping away essential moisture. This product contains: Chamomile Extract, Aloe Leaf Juice, Cucumber Extract, and Japanese Green Tea Extract. The following are benefits of these ingredients:</p>
+<ul>
+<li>The Chamomile Extract eases the itching of eczema and other rashes and reduces skin inflammation, is also speeds healing and prevents bacterial infection.</li>
+<li>The Cucumber Extract contains various minerals including magnesium, potassium, and silica. Silica can help reduce the appearance of fine lines and wrinkles. It also helps minimize the appearance of pores.</li>
+<li>The Aloe Leaf Juice Extract moisturizes the skin and reduces flaking and restores suppleness to enhance the appearance of dry or damaged skin. This extract removes wrinkles and gives the skin a healthier and younger looking appearance. It is a large resource of Vitamin E which reduces the damage to the skin caused by continuous itching. Sun burns can also be treated by using skin care products made of pure Aloe Vera Juice Extract. This ingredient is also used for treating acne problems, dryness of the skin, and any other type of skin problem.</li>
+<li>The Japanese Green Tea Extract has a strong antioxidant effect, which also protects the skin from the damaging effect of free radicals. This extract also contains methylxanthines that stimulates skin microcirculation and therefore positively influence the tone and health of the skin; this ingredient also reduces puffiness and dark circles around the eyes, slows and visibly reverses the look and signs of aging, and protects the skin against the abuse of the elements.</li>
+</ul>
+<div class="product-single__description rte" itemprop="description">
+<p><span>This cleanser has no parabens, no phthalates, and no sulphates. Additionally, this product is suitable for all skin types including the most sensitive. </span></p>
+<p><span>Prefer to shop for this product on Amazon.com? No problem, we sell this product there too. Click <a href="https://www.amazon.ca/dp/B01N7EQ01L" target="_blank" title="Taza Natural Botanical Extract Facial Cleanser" rel="noopener noreferrer">Taza Natural Botanical Extract Facial Cleanser</a> to be redirected to this product's detail page on Amazon.ca.</span></p>
+<p><span>Get your Taza Natural Botanical Extract Facial Cleanser.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>1+</title>
+      <s:price currency="CAD">21.49</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>2+</title>
+      <s:price currency="CAD">19.34</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>5+</title>
+      <s:price currency="CAD">18.27</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tazaskincare.ca/products/1368435097713</id>
+      <title>7+</title>
+      <s:price currency="CAD">17.19</s:price>
+      <s:sku>botanicalextractfacialcleanser</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+</feed>
